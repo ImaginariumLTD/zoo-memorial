@@ -97,7 +97,7 @@ p {
 
 img {
   display: block;
-  max-width: 60%;
+  max-width: 65%;
   margin-bottom: 25px;
 }
 
@@ -108,5 +108,5 @@ img {
 */
 
 .hero {
- padding: 22px 80px 66px 80px;
+ padding: 40px;
 }
