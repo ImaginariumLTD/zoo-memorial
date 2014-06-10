@@ -60,6 +60,15 @@ table {
   --moz-box-sizing: border-box;
   -box-sizing: border-box;
 }
+
+.container {
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 960px;
+}
+
+
 /*
  ===========================================
  Images 
