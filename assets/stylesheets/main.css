@@ -95,11 +95,12 @@ p {
  ===========================================
 */
 
-img {
+/*img {
   display: block;
   max-width: 65%;
   margin-bottom: 25px;
 }
+*/
 
 /* 
  =============================================
@@ -109,5 +110,6 @@ img {
 
 .hero {
  padding: 40px;
+ display:block;
 }
 
