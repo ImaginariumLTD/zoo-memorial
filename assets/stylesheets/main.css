@@ -72,6 +72,10 @@ table {
   padding-right: 30px;
 }
 
+.hor-center {
+  text-align: center;
+}
+
 .col-1-2 {
   width: 49%;
 }
@@ -156,10 +160,6 @@ h1, h2, h3, h4, p {
 .values ul li {
   display: inline-block;
   margin: 20px;
-}
-
-.values {
-  text-align: center;
 }
 
 /*
