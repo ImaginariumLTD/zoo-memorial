@@ -156,8 +156,9 @@ h1, h2, h3, h4, p {
 
 .hero img {
   display:block;
-  max-width: 50%;
   height:auto;
+  max-width: 70%;
+  margin: 0 auto;
 }
 
 .values ul li {
