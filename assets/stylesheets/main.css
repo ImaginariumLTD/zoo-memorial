@@ -90,6 +90,7 @@ table {
 
 .col-1-2, 
 .col-1-3,
+.col-1-5,
 .col-2-3 {
   display: inline-block;
   vertical-align: top;
@@ -98,6 +99,7 @@ table {
 .grid, 
 .col-1-2, 
 .col-1-3,
+.col-1-5,
 .col-2-3 {
   padding-left: 15px;
   padding-right: 15px;
