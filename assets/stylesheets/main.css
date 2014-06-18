@@ -151,12 +151,13 @@ h1, h2, h3, h4, p {
 */
 
 .hero {
- padding: 40px;
- }
+ padding: 50px;
+}
 
 .hero img {
   display:block;
-  max-width: 65%
+  max-width: 50%;
+  height:auto;
 }
 
 .values ul li {
