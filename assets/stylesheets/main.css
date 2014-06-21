@@ -55,7 +55,7 @@ table {
 
 body {
   color:;
-  font:;
+  font:300 16px/22px 'Josefin Sans', sans-serif;
 }
 
 /*
@@ -84,7 +84,7 @@ body {
 }
 
 .col-1-2 {
-  width: 49.78%;
+  width: 49.72%;
 }
 
 .col-1-3 {
