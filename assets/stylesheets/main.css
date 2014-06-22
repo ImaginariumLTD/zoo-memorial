@@ -177,6 +177,13 @@ h4 {
   font-size: 18px;
 }
 
+strong {
+  font-weight: bold;
+}
+
+cite, em {
+  font-style: italic;
+}
 
 .hor-center {
   text-align: center;
