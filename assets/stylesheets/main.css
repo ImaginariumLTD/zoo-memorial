@@ -239,7 +239,8 @@ a {
 */
 
 .primary-nav {
-  font-size: 15px;
+  font-size: 17px;
+  font-variant: small-caps;
   font-weight: 700
 }
 
