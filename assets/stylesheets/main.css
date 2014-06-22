@@ -54,7 +54,7 @@ table {
 */
 
 body {
-  color:rgb(46, 25, 6);
+  color:rgb(40, 49, 54);
   font:400 16px/22px 'Josefin Sans', sans-serif;
 }
 
@@ -187,6 +187,22 @@ cite, em {
 
 .hor-center {
   text-align: center;
+}
+
+/*
+ =============================================
+ Links
+ =============================================
+*/
+
+/*
+a:hover {
+  color:rgb(46, 25, 6);  
+}
+*/
+
+a {
+  color: rgb(20, 7, 2)
 }
 
 /* 
