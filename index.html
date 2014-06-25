@@ -31,12 +31,11 @@
 
   <!-- Hero -->
 
-    <section class="hero slider">
+    <section class="hero">
 
       <div>
-
+        <img src="assets/images/ict-center-demo-3.jpg">
         <img src="assets/images/ict-center-demo-4.jpg">
-      
       </div>
 
     </section>
@@ -140,8 +139,14 @@
 
   <script type="text/javascript">
     $(document).ready(function(){
-      $('.slider').slick({
-        setting-name: setting-value
+      $('.hero').slick({
+        autoplay: true,
+        dots: true,
+        infinite: true,
+        speed: 500,
+        fade: true,
+        slide: '> img', 
+        cssEase: 'linear'
       });
     });
   </script>
