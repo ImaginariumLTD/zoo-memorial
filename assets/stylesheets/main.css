@@ -72,17 +72,13 @@ body {
   -box-sizing: border-box;
 }
 
-.container-x {
-  max-width: 1000px;
-}
-
-.container,
+.my-container,
 .grid {
   margin: 0 auto;
   width: 960px;
 }
 
-.container {
+.my-container {
   padding-left: 30px;
   padding-right: 30px;
 }
