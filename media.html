@@ -4,15 +4,10 @@
   <head>
     <meta charset="UTF-8">
     <title>Zoo Memorial Foundation</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/stylesheets/main.css">
-    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,700' rel='stylesheet' type='text/css'>  
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-    $(document).ready(function(){
-        $('.carousel').carousel();
-      });
-    </script>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="assets/stylesheets/main.css">  
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,700' rel='stylesheet' type='text/css'>
   </head>
   
   <body>
@@ -39,29 +34,39 @@
   
     <div id="myCarousel" class="carousel slide jumbotron">
       <div class="container">
+        <ol class="carousel-indicators">
+          <li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li> 
+        </ol>     
         <div class="carousel-inner">
-          
           <div class="item active">
             <h1>ICT enabled community innovation</h1>
             <p class="lead">We help develop the community by granting them access to ICT tools for development</p>
           </div>
-          
           <div class="item">
             <h1>Training</h1>
             <p class="lead">We help develop the community by granting them access to ICT tools for development</p>
           </div>
-
           <div class="item">
             <h1>Advocacy for social development</h1>
             <p class="lead">We help develop the community by granting them access to ICT tools for development</p>
           </div>
         </div>
       </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="icon-prev"></span>
-      </a>
-    </div>
+      
+      <!-- Carousel controls -->
+        
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="icon-next"></span>
+        </a>
 
+      <!--- End of Carousel controls -->
+    
+    </div>
   <!-- End of Carousel -->
 
   <!-- Footer -->
@@ -79,9 +84,9 @@
       </nav>
 
     </footer>
-
   <!-- End of Footer -->  
-  
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   </body>
 
 </html>
