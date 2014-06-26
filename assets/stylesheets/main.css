@@ -221,11 +221,11 @@ a {
 }
 
 .carousel-indicators .active {
-  background-color: #222;
+  background-color: rgb(20, 7, 2);
 }
 
 .carousel-indicators li {
-  border-color: #222;
+  border-color: rgb(20, 7, 2);
 }
 
 /* 
