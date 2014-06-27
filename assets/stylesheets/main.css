@@ -218,6 +218,7 @@ a {
 
 #myCarousel {
   padding:0;
+  margin-bottom: 0;
 }
 
 .carousel-indicators {
