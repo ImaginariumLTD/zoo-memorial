@@ -274,6 +274,11 @@ a {
   margin: 20px;
 }
 
+.intro,
+.establishment {
+  background-color: #fff;
+}
+
 /*
  =============================================
  Navigation
