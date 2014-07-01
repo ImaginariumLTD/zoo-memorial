@@ -214,6 +214,16 @@ a {
   text-decoration: none;
 }
 
+
+.primary-header a:hover {
+  border-bottom: 1px solid rgb(232, 126, 4);
+  color: rgb(244, 208, 63);
+}
+
+.primary-footer a:hover {
+
+}
+
 /*
  =============================================
  Carousel
