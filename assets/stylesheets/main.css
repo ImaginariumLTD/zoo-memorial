@@ -160,6 +160,8 @@ body {
   background-color: rgb(236, 240, 241);
   margin: 0 auto;
   min-width: 1000px;  
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 /*
