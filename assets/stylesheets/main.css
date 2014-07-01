@@ -240,19 +240,6 @@ a {
  =============================================
 */
 
-.banner {
-  position: relative;
-  overflow: auto;
-}
-
-.banner li {
-  list-style: none;
-}
-
-.banner ul li {
-  float:left;
-}
-
 .hero {
  padding: 50px;
 }
