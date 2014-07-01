@@ -156,8 +156,8 @@ body {
  ===========================================
 */
 
-.row-1 {
-  background-color: rgb(rgb(236, 240, 241));
+#row-1 {
+  background-color: rgb(236, 240, 241);
   min-width: 960px;  
 }
 
