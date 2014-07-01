@@ -208,6 +208,9 @@ a:hover {
 
 a {
   color: rgb(20, 7, 2);
+}
+
+.primary-nav a {
   text-decoration: none;
 }
 
