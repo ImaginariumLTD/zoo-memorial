@@ -259,6 +259,13 @@ a {
   text-decoration: none;
 }
 
+.primary-footer a {
+  color: #fff;
+}
+
+.primary-footer a:hover {
+  color: #fff;
+}
 
 .primary-header a:hover {
   border-bottom: 1px solid rgb(232, 126, 4);
