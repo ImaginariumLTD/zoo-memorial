@@ -160,6 +160,8 @@ body {
   background-color: rgb(240, 255, 245)
   margin: 0 auto;
   min-width: 1000px;
+  padding-top: 40px;
+  padding-bottom: 30px;
 }
 
 #row-1 {
