@@ -254,7 +254,8 @@ a {
   color: rgb(20, 7, 2);
 }
 
-.primary-nav a {
+.primary-nav a,
+.secondary-nav a {
   text-decoration: none;
 }
 
