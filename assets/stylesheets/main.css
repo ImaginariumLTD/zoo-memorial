@@ -359,6 +359,10 @@ nav img {
  =============================================
 */
 
+footer nav > * {
+  display: block;
+}
+
 .primary-footer small {
   float: left;
 }
