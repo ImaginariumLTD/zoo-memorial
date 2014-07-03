@@ -194,6 +194,7 @@ body {
   background-image: -webkit-linear-gradient(bottom, #EB9850 100%);
   background-image: -ms-linear-gradient(bottom, #EB9850 100%);
   background-image: linear-gradient(to bottom, #EB9850 100%);
+  padding: 40px 20px;
 }
 
 /*
