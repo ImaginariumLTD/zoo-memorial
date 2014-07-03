@@ -187,6 +187,7 @@ body {
   background-color: -webkit-linear-gradient: (to right, #e2e8ea, #bbc9cd);
                     -o-linear-gradient: (to right, #e2e8ea, #bbc9cd);
                     linear-gradient: (to right, #e2e8ea, #bbc9cd);
+  padding: 20px 40px;
 }
 
 /*
