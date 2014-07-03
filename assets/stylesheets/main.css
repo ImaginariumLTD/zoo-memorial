@@ -183,11 +183,17 @@ body {
 }
 
 #filler-row {
-  background-color: #d8e1e3;
-  background-color: -webkit-linear-gradient: (to right, #e2e8ea, #bbc9cd);
-                    -o-linear-gradient: (to right, #e2e8ea, #bbc9cd);
-                    linear-gradient: (to right, #e2e8ea, #bbc9cd);
-  padding: 20px 40px;
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(1, #EB9850)
+  );
+  background-image: -o-linear-gradient(bottom, #EB9850 100%);
+  background-image: -moz-linear-gradient(bottom, #EB9850 100%);
+  background-image: -webkit-linear-gradient(bottom, #EB9850 100%);
+  background-image: -ms-linear-gradient(bottom, #EB9850 100%);
+  background-image: linear-gradient(to bottom, #EB9850 100%);
 }
 
 /*
