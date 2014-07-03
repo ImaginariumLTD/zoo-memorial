@@ -185,16 +185,16 @@ body {
 #filler-row {
   background-image: -webkit-gradient(
     linear,
-    left bottom,
-    left bottom,
-    color-stop(0.22, #E88732),
+    right top,
+    left top,
+    color-stop(0, #F0B37E),
     color-stop(0.73, #EB9850)
   );
-  background-image: -o-linear-gradient(left bottom, #E88732 22%, #EB9850 73%);
-  background-image: -moz-linear-gradient(left bottom, #E88732 22%, #EB9850 73%);
-  background-image: -webkit-linear-gradient(left bottom, #E88732 22%, #EB9850 73%);
-  background-image: -ms-linear-gradient(left bottom, #E88732 22%, #EB9850 73%);
-  background-image: linear-gradient(to left bottom, #E88732 22%, #EB9850 73%);
+  background-image: -o-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
+  background-image: -moz-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
+  background-image: -webkit-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
+  background-image: -ms-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
+  background-image: linear-gradient(to left, #F0B37E 38%, #EB9850 73%);
   padding: 40px 20px;
 }
 
