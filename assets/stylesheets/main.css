@@ -161,6 +161,19 @@ body {
   margin: 0 auto;
 }
 
+.row-0 {
+  background-color: #f6f8f8;
+}
+
+.row-1 {
+  background-color: #ecf0f1;
+
+}
+
+.row-2 {
+  background-color: #c5d1d4;
+}
+
 .homepg-row-0 {
   background-color: #f6f8f8;
   margin-top: -30px;
@@ -195,6 +208,7 @@ body {
   background-image: -webkit-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
   background-image: -ms-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
   background-image: linear-gradient(to left, #F0B37E 38%, #EB9850 73%);
+  color: #fff;
   padding: 40px 20px;
 }
 
