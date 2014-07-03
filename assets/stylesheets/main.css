@@ -161,7 +161,7 @@ body {
   margin: 0 auto;
 }
 
-.home-0 {
+.home-row-0 {
   background-color: #f6f8f8;
   margin-top: -30px;
   margin-bottom: -10px;
@@ -169,7 +169,7 @@ body {
   padding-bottom: 40px;
 }
 
-.home-1 {
+.home-row-1 {
   background-color: #ecf0f1;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -177,7 +177,7 @@ body {
   padding-top: 10px;
 }
 
-.home-2 {
+.home-row-2 {
   background-color: #c5d1d4;
   margin-top: -20px;
 }
