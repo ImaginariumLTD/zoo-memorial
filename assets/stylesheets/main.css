@@ -196,6 +196,9 @@ body {
 
 #filler-row {
   background: #d8e1e3;
+  background: -webkit-linear-gradient: (to right, #e2e8ea, #bbc9cd);
+  -o-linear-gradient: (to right, #e2e8ea, #bbc9cd);
+  linear-gradient: (to right, #e2e8ea, #bbc9cd);
 }
 
 /*
