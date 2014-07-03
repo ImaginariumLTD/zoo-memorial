@@ -175,6 +175,10 @@ body {
   background-color: #c5d1d4;
 }
 
+.clear-row {
+  background-color: #fff;
+}
+
 .homepg-row-0 {
   margin-top: -30px;
   margin-bottom: -10px;
