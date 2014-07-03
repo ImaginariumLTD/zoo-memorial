@@ -352,7 +352,7 @@ a {
   padding-bottom: 90px;
 }
 
-.clear-row {
+.clear-row > article {
   padding: 40px 30px;
 }
 
