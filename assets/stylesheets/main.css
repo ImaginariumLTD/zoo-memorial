@@ -164,13 +164,11 @@ body {
 .home-0 {
   margin-top: -30px;
   margin-bottom: -10px;
-  min-width: 1000px;
   padding-top: 50px;
   padding-bottom: 40px;
 }
 
 .home-1 {
-  min-width: 1000px;  
   margin-top: 10px;
   margin-bottom: 20px;
   padding-bottom: 25px;
@@ -179,7 +177,6 @@ body {
 
 .home-2 {
   margin-top: -20px;
-  min-width: 1000px;
 }
 
 #row-0 {
