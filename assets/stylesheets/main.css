@@ -258,6 +258,18 @@ cite, em {
   text-align: center;
 }
 
+/* 
+ =============================================
+ Leads
+ =============================================
+*/
+
+
+#filler-row h1 {
+  color: #eee;
+  padding-left: 160px;
+}
+
 /*
  =============================================
  Links
@@ -354,11 +366,6 @@ a {
 
 .about-article {
   padding: 40px 30px;
-}
-
-#filler-row h1 {
-  color: #eee;
-  padding-left: 160px;
 }
 
 /*
