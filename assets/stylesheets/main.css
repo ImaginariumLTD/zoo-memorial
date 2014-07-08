@@ -55,7 +55,7 @@ table {
 
 body {
   color:rgb(40, 49, 54);
-  font:400 16px/22px 'Josefin Sans', sans-serif;
+  
 }
 
 /*
@@ -219,6 +219,11 @@ body {
  Typography
  ===========================================
 */
+
+h1, h2, h3, h4,
+.primary-nav {
+  font:400 16px/22px 'Josefin Sans', sans-serif;
+}
 
 h1, h2, h3, h4, p {
   margin-bottom: 20px;
