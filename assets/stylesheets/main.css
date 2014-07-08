@@ -385,6 +385,7 @@ nav img {
 }
 
 .primary-nav {
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 18px;
   font-variant: small-caps;
   font-weight: 700;
