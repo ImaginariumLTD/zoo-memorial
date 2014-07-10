@@ -317,11 +317,11 @@ a {
 }
 
 .carousel-indicators .active {
-  background-color: rgb(244, 208, 63);
+  background-color: #f6740a;
 }
 
 .carousel-indicators li {
-  border-color: rgb(244, 208, 63);
+  border-color: #fff;
 }
 
 /*
