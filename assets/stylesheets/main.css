@@ -163,16 +163,12 @@ body {
   margin: 0 auto;
 }
 
-.row-0 {
+.row-1 {
   background-color: #f6f8f8;
 }
 
-.row-1 {
-  background-color: #ecf0f1;
-}
-
 .row-2 {
-  background-color: #e2e8ea;
+  background-color: #ecf0f1;
 }
 
 .clear-row {
