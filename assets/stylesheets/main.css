@@ -353,7 +353,7 @@ a {
 }
 
 .values ul li:nth-child(1) {
-  background-color: #70f370;
+  background-color: #8ff68f;
   padding: 35px 25px;
 }
 
@@ -363,20 +363,20 @@ a {
   padding: 52px 25px;
 }
 
-.values ul li:nth-child(3) {
+.values ul li:nth-child(4) {
   background-color: #f7e1d4;
   color: #000;
   padding: 60px 28px;
 }
 
-.values ul li:nth-child(4) {
-  background-color: #ff7061;
-  padding: 40px 24px;
+.values ul li:nth-child(3) {
+  background-color: #f0a566;
+  padding: 62px 18px;
 }
 
 .values ul li:nth-child(5) {
-  background-color: #f0a566;
-  padding: 62px 18px;
+  background-color: #ff7061;
+  padding: 40px 24px;
 }
 
 .intro,
