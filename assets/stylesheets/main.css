@@ -340,6 +340,10 @@ a {
   padding-top: 20px;
 }
 
+.values h2 {
+  font-weight: 700;
+}
+
 .values ul li {
   border: 2px solid #fff;
   border-radius: 50%;
