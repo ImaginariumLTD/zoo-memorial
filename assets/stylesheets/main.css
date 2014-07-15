@@ -343,22 +343,25 @@ a {
 .values ul li {
   border: 2px solid #fff;
   border-radius: 50%;
+  color: #fff;
   display: inline-block;
   margin: 20px;
 }
 
 .values ul li:nth-child(1) {
-  background-color: #60f1b8;
+  background-color: #70f370;
   padding: 60px 50px;
 }
 
 .values ul li:nth-child(2) {
   background-color: #e8e1fb;
+  color: #000;
   padding: 85px 55px;
 }
 
 .values ul li:nth-child(3) {
   background-color: #f7e1d4;
+  color: #000;
   padding: 85px 55px;
 }
 
@@ -368,7 +371,7 @@ a {
 }
 
 .values ul li:nth-child(5) {
-  background-color: #ee9c57;
+  background-color: #f0a566;
   padding: 90px 50px;
 }
 
