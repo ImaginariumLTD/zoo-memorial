@@ -352,6 +352,10 @@ a {
   background-color: #60f1b8;
 }
 
+.values ul li:nth-child(2) {
+  background-color: #ff7061;
+}
+
 .values ul li:nth-child(5) {
   background-color: #ee9c57;
 }
