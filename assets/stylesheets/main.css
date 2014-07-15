@@ -341,7 +341,9 @@ a {
 }
 
 .values h2 {
+  border: 1px solid #fff;
   font-weight: 700;
+  padding: 5px 0px;
 }
 
 .values ul li {
