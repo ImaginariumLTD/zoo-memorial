@@ -349,7 +349,7 @@ a {
 
 .values ul li:nth-child(1) {
   background-color: #60f1b8;
-  padding: 60px;
+  padding: 60px 50px;
 }
 
 .values ul li:nth-child(2) {
