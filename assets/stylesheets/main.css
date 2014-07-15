@@ -341,8 +341,10 @@ a {
 }
 
 .values ul li {
+  border: 2px solid #fff;
   display: inline-block;
   margin: 20px;
+  padding: 20px;
 }
 
 .intro,
