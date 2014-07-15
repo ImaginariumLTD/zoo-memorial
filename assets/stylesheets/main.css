@@ -354,6 +354,7 @@ a {
 
 .values ul li:nth-child(2) {
   background-color: #e8e1fb;
+  padding: 85px 55px;
 }
 
 .values ul li:nth-child(3) {
