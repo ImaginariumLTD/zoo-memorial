@@ -353,13 +353,13 @@ a {
 }
 
 .values ul li:nth-child(1) {
-  background-color: #8ff68f;
+  background-color: #e8e1fb;
+  color: #000;
   padding: 35px 25px;
 }
 
 .values ul li:nth-child(2) {
-  background-color: #e8e1fb;
-  color: #000;
+  background-color: #8ff68f;
   padding: 52px 25px;
 }
 
@@ -369,13 +369,13 @@ a {
 }
 
 .values ul li:nth-child(4) {
-  background-color: #f7e1d4;
-  color: #000;
+  background-color: #ff7061;
   padding: 52px 20px;
 }
 
 .values ul li:nth-child(5) {
-  background-color: #ff7061;
+  background-color: #f7e1d4;
+  color: #000;
   padding: 40px 24px;
 }
 
