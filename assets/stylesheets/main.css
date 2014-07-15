@@ -342,6 +342,7 @@ a {
 
 .values ul li {
   border: 2px solid #fff;
+  border-radius: 50%;
   display: inline-block;
   margin: 20px;
   padding: 40px;
