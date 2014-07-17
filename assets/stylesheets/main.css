@@ -341,7 +341,12 @@ a {
 }
 
 .values h2 {
+  color: rgb(137, 134, 126);
   padding: 5px 0px;
+}
+
+.values p {
+  color: #826656;
 }
 
 .values ul li {
