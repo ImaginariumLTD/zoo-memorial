@@ -420,8 +420,14 @@ a {
 */
 
 nav * {
-  margin-right: 30px;
+  margin-right: 10px;
+  margin-left: 15px;
   vertical-align: middle;
+}
+
+nav ul li:nth-child(4) {
+  margin: 0px;
+  padding: 0px;
 }
 
 .primary-nav {
