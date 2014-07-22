@@ -287,7 +287,7 @@ a {
 }
 
 .primary-footer a {
-  color: #fff;
+  color: #000;
 }
 
 .primary-header a:hover,
@@ -454,7 +454,7 @@ footer nav > * {
 }
 
 .primary-footer {
-  background-color: #fddf9a;
+  background-color: #fff;
   padding-top: 35px;
   padding-right: 15px;
   padding-bottom: 20px;
