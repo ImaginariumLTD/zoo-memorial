@@ -400,6 +400,7 @@ a {
 */
 
 .caption {
+  border-radius: 3px;
   display: inline-block;
   position: relative;
   overflow: hidden;
@@ -409,7 +410,7 @@ a {
 .caption p {
   display:block;
   min-width: 100%;
-  padding: 50px 20px;
+  padding: 30px 20px;
   transition: opacity 0.3s ease-in-out;
 }
 
