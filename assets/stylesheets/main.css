@@ -409,6 +409,7 @@ a {
 
 .caption img {
   display:block;
+  min-width: 100%;
   transition: opacity 0.3s ease-in-out;
 }
 
@@ -429,8 +430,6 @@ a {
 .caption::after {
   background: #0083ab;
   content: attr(data-title);
-  font-size: 40px;
-  font-weight: 300; 
   padding: 30px;
   top: 0;
   transform: translateY(-100%);
