@@ -446,6 +446,11 @@ a {
   transform: translateY(100%);
 }
 
+.caption:hover::after,
+.caption:hover::before {
+  transform: translateY(0%);
+}
+
 /*
  =============================================
  Content Styles
