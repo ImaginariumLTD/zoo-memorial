@@ -426,6 +426,26 @@ a {
   z-index: 1;
   transition: transform 0.3s ease-in-out;
 }
+
+.caption::after {
+  background: #0083ab;
+  content: attr(data-title);
+  font-size: 40px;
+  font-weight: 300; 
+  padding: 30px;
+  top: 0;
+  transform: translateY(-100%);
+}
+
+.caption::before {
+  background: #f27545;
+  content: '...' attr(data-description) '...';
+  font-size: 14px;
+  padding: 20px;
+  top: 50%;
+  transform: translateY(100%);
+}
+
 /*
  =============================================
  Content Styles
