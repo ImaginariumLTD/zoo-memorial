@@ -64,12 +64,18 @@ body {
  ===========================================
 */
 
+html {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 *,
 *:before,
 *:after {
-  -webkit-box-sizing: border-box;
-  --moz-box-sizing: border-box;
-  -box-sizing: border-box;
+  -webkit-box-sizing: inherit;
+  --moz-box-sizing: inherit;
+  -box-sizing: inherit;
 }
 
 /*
@@ -346,7 +352,8 @@ a {
 
 .values ul li {
   border: 2px solid #fff;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   color: #fff;
   display: inline-block;
   margin: 20px;
@@ -380,7 +387,8 @@ a {
 .intro,
 .establishment {
   background-color: #fff;
-  border-radius: 2px;
+  -webkit-border-radius: 2px;
+          border-radius: 2px;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -400,7 +408,8 @@ a {
 */
 
 .caption {
-  border-radius: 5px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
   display: inline-block;
   position: relative;
   overflow: hidden;
@@ -412,7 +421,8 @@ a {
   display:block;
   min-width: 100%;
   padding: 20px 25px;
-  transition: opacity 0.3s ease-in-out;
+  -webkit-transition: opacity 0.3s ease-in-out;
+          transition: opacity 0.3s ease-in-out;
 }
 
 .caption:hover p {
@@ -424,7 +434,8 @@ a {
   color: #fff;
   height: 50%;
   position: absolute;
-  transition: transform 0.3s ease-in-out;
+  -webkit-transition: -webkit-transform 0.3s ease-in-out;
+          transition: transform 0.3s ease-in-out;
   width: 100%;
   z-index: 1;
 }
@@ -434,7 +445,9 @@ a {
   content: attr(data-title);
   padding: 35px;
   top: 0;
-  transform: translateY(-100%);
+  -webkit-transform: translateY(-100%);
+      -ms-transform: translateY(-100%);
+          transform: translateY(-100%);
 }
 
 .caption::before {
@@ -443,12 +456,16 @@ a {
   font-size: 16px;
   padding: 30px;
   top: 50%;
-  transform: translateY(100%);
+  -webkit-transform: translateY(100%);
+      -ms-transform: translateY(100%);
+          transform: translateY(100%);
 }
 
 .caption:hover::after,
 .caption:hover::before {
-  transform: translateY(0%);
+  -webkit-transform: translateY(0%);
+      -ms-transform: translateY(0%);
+          transform: translateY(0%);
 }
 
 /*
