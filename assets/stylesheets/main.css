@@ -409,6 +409,7 @@ a {
 .caption p {
   display:block;
   min-width: 100%;
+  padding-top: 50px;
   transition: opacity 0.3s ease-in-out;
 }
 
