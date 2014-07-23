@@ -432,7 +432,7 @@ a {
 .caption::after {
   background: #15bfa1;
   content: attr(data-title);
-  padding: 30px;
+  padding: 35px;
   top: 0;
   transform: translateY(-100%);
 }
@@ -440,8 +440,8 @@ a {
 .caption::before {
   background: #f38155;
   content: attr(data-description);
-  font-size: 14px;
-  padding: 20px;
+  font-size: 16px;
+  padding: 30px;
   top: 50%;
   transform: translateY(100%);
 }
