@@ -402,7 +402,6 @@ a {
 .caption {
   display: inline-block;
   position: relative;
-  margin: 10px;
   overflow: hidden;
   background: #ddd;
 }
