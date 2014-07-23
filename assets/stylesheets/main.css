@@ -395,6 +395,64 @@ a {
 
 /*
  =============================================
+ Projects Page
+ ============================================
+*/
+
+.caption {
+  border-radius: 5px;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  background: #ddd;
+  text-align: left;
+}
+
+.caption p {
+  display:block;
+  min-width: 100%;
+  padding: 20px 25px;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.caption:hover p {
+  opacity: 0.5;
+}
+
+.caption::after, 
+.caption::before {
+  position: absolute;
+  width: 100%;
+  height: 50%;
+  color: #fff;
+  z-index: 1;
+  transition: transform 0.3s ease-in-out;
+}
+
+.caption::after {
+  background: #15bfa1;
+  content: attr(data-title);
+  padding: 30px;
+  top: 0;
+  transform: translateY(-100%);
+}
+
+.caption::before {
+  background: #f38155;
+  content: attr(data-description);
+  font-size: 14px;
+  padding: 20px;
+  top: 50%;
+  transform: translateY(100%);
+}
+
+.caption:hover::after,
+.caption:hover::before {
+  transform: translateY(0%);
+}
+
+/*
+ =============================================
  Content Styles
  =============================================
 */
