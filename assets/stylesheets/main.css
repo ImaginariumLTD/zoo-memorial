@@ -404,12 +404,17 @@ a {
   position: relative;
   margin: 10px;
   overflow: hidden;
-  background: #000;
+  background: #111;
 }
 
 .caption img {
   display:block;
   max-width: 100%;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.caption:hover img {
+  opacity: 0.5;
 }
 
 /*
