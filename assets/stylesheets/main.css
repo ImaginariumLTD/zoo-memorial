@@ -421,12 +421,12 @@ a {
 
 .caption::after, 
 .caption::before {
-  position: absolute;
-  width: 100%;
-  height: 50%;
   color: #fff;
-  z-index: 1;
+  height: 50%;
+  position: absolute;
   transition: transform 0.3s ease-in-out;
+  width: 100%;
+  z-index: 1;
 }
 
 .caption::after {
