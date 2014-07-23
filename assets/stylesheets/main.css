@@ -403,6 +403,8 @@ a {
   display: inline-block;
   position: relative;
   margin: 10px;
+  overflow: hidden;
+  background: #000;
 }
 
 .caption h3 {
