@@ -468,6 +468,10 @@ a {
           transform: translateY(0%);
 }
 
+.tab-content {
+  padding: 20px;
+}
+
 /*
  =============================================
  Content Styles
