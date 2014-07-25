@@ -408,12 +408,12 @@ a {
 */
 
 .caption {
-  -webkit-border-radius: 5px;
-          border-radius: 5px;
+  -webkit-border-radius: 9px;
+          border-radius: 9px;
   display: inline-block;
   position: relative;
   overflow: hidden;
-  background: #ddd;
+  background: #f6c9a4;
   text-align: left;
 }
 
