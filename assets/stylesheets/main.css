@@ -474,9 +474,9 @@ a {
 }
 
 .tab-content {
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-left: 3px solid #f5c094;
+  border-right: 3px solid #f5c094;
+  border-bottom: 3px solid #f5c094;
   border-radius: 0 0 4px 4px;
   padding: 20px;
 }
