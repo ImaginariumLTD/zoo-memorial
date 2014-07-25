@@ -89,7 +89,7 @@
           </div>
 
           <div>
-            <ul class="nav nav-tabs nav-justified">
+            <ul class="nav nav-tabs nav-justified" id="tabs-first">
               <li class="active"><a href="#tab_a" data-toggle="tab"><h3>Rural ICT Project</h3></a></li>
               <li><a href="#tab_b" data-toggle="tab"><h3>Mobile ICT</h3></a></li>
               <li><a href="#tab_c" data-toggle="tab"><h4>Beneficiaries</h4></a></li>
@@ -203,6 +203,17 @@
     </footer>
 
   <!-- End of Footer -->
+  
+  <!-- Tab Javascript -->
+  
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    $('#pills-first a').hover(function (e){
+      e.preventDefault()
+      $(this).tab('show')
+    });
+    </script>
   
   </body>
 
