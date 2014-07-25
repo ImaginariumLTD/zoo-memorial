@@ -468,6 +468,10 @@ a {
           transform: translateY(0%);
 }
 
+.nav-tabs {
+  margin-top: 30px;
+}
+
 .tab-content {
   padding: 20px;
 }
