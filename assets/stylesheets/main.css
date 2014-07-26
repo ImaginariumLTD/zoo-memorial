@@ -524,7 +524,7 @@ nav.primary-nav ul li {
 */
 
 .secondary-nav {
-  float: right;
+  text-align: right;
 }
 
 nav.secondary-nav ul li {
