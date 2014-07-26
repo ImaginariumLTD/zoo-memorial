@@ -545,6 +545,7 @@ footer nav > * {
 
 .primary-footer {
   background-color: #fff;
+  border-top: 3px solid #909090;
   padding-top: 35px;
   padding-right: 15px;
   padding-bottom: 20px;
