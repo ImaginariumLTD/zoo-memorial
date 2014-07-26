@@ -544,10 +544,10 @@ nav.secondary-nav ul li {
 
 .social-media-icons ul > * {
   display: inline-block;
-  margin: 15px 15px;
+  margin: 15px 13px;
 }
 
-.social-media-icons ul li:nth-child(1) {
+.social-media-icons ul li:first-child {
   margin-left: 450px;
 }
 
