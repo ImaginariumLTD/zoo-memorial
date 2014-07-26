@@ -469,6 +469,10 @@ a {
           transform: translateY(0%);
 }
 
+.community-gains {
+  border: 1px solid #469168;
+}
+
 .nav-tabs {
   margin-top: 70px;
   margin-bottom: -1px;
