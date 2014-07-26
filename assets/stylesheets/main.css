@@ -547,6 +547,10 @@ nav.secondary-nav ul li {
   margin: 15px 13px;
 }
 
+.social-media-icons ul a:hover {
+  border-bottom: none;
+}
+
 .social-media-icons ul li:first-child {
   margin-left: 450px;
 }
