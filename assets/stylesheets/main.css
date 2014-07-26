@@ -528,7 +528,7 @@ nav.primary-nav ul li {
 }
 
 nav.secondary-nav ul li {
-  display: inline-block;
+  display: block;
 }
 
 /*
