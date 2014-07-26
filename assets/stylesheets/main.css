@@ -528,15 +528,15 @@ nav.primary-nav ul li {
   width: 80px;
 }
 
+nav.secondary-nav ul li {
+  display: block;
+}
+
 /*
  =============================================
  Primary Footer
  =============================================
 */
-
-footer nav > * {
-  display: block;
-}
 
 .primary-footer small {
   float: left;
