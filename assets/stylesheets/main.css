@@ -503,7 +503,7 @@ a {
  =============================================
 */
 
-nav ul li {
+nav.primary-nav ul li {
   display: inline-block;
   margin-right: 18px;
   margin-left: 18px;
@@ -524,7 +524,8 @@ nav ul li {
 */
 
 .secondary-nav {
-  text-align: right;
+  float: right;
+  width: 80px;
 }
 
 /*
@@ -545,7 +546,7 @@ footer nav > * {
 
 .primary-footer {
   background-color: #fff;
-  border-top: 3px solid #909090;
+  border-top: 3px solid #5d5d5d;
   padding-top: 35px;
   padding-right: 15px;
   padding-bottom: 20px;
