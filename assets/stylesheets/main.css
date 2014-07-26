@@ -525,11 +525,10 @@ nav.primary-nav ul li {
 
 .secondary-nav {
   float: right;
-  width: 80px;
 }
 
 nav.secondary-nav ul li {
-  display: block;
+  display: inline-block;
 }
 
 /*
