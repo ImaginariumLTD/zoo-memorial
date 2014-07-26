@@ -470,7 +470,8 @@ a {
 }
 
 .community-gains {
-  border: 1px solid #469168;
+  border: 2px solid #9fd1b6;
+  border-radius: 4px;
 }
 
 .nav-tabs {
