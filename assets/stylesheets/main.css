@@ -501,6 +501,16 @@ a {
   with: 50%;
 }
 
+#nelly-odongo {
+  padding-bottom: 30px;
+}
+
+#clement-mwangi,
+#nelly-odongo,
+#june-odongo {
+  margin-bottom: 10px;
+}
+
 /*
  =============================================
  Content Styles
