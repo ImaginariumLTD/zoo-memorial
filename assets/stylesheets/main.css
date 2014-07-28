@@ -550,7 +550,13 @@ a {
   line-height: 1.5;
 }
 
+#partnership {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
 #partnership-criteria {
+  padding-bottom: 20px;
   padding-top: 50px;
   text-align: center;
 }
