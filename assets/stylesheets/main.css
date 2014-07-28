@@ -505,10 +505,21 @@ a {
   padding-bottom: 30px;
 }
 
+#clement-mwangi {
+  border: 2px solid #fcbcb4;
+}
+
+#nelly-odongo{
+  border: 2px solid #9fd1b6;
+}
+
+#june-odongo {
+  border: 2px solid #f6c9a4;
+}
+
 #clement-mwangi,
 #nelly-odongo,
 #june-odongo {
-  border: 2px solid #fba093;
   border-radius: 5px;
   margin-bottom: 40px;
 }
