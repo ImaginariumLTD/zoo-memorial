@@ -549,6 +549,27 @@ a {
   text-align: center;
 }
 
+#partnership  article ul {
+  list-style-position: inside;
+  list-style-type: square; 
+}
+
+/* 
+ ===========================================
+ Leads
+ ===========================================
+*/
+
+.lead {
+  text-align: center;
+}
+
+.lead p {
+  color: #380802;
+  font-size: 17px;
+  line-height: 23px;
+}
+
 /*
  =============================================
  Content Styles
