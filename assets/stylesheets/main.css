@@ -550,12 +550,12 @@ a {
   line-height: 1.5;
 }
 
-#partnership {
+#partnership-criteria {
   padding-top: 50px;
   text-align: center;
 }
 
-#partnership  article ul {
+#partnership-criteria  article ul {
   list-style-position: inside;
   list-style-type: square; 
 }
