@@ -508,7 +508,9 @@ a {
 #clement-mwangi,
 #nelly-odongo,
 #june-odongo {
-  margin-bottom: 10px;
+  border: 2px solid #ff8f83;
+  border-radius: 5px;
+  margin-bottom: 40px;
 }
 
 /*
