@@ -540,8 +540,10 @@ a {
   height: 264px;
 }
 
-#contact-info h2 {
+#contact-info p {
+  font-size: 17px;
   font-variant: inherit;
+  line-height: 1.5;
 }
 
 #partnership {
