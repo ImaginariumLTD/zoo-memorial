@@ -540,6 +540,10 @@ a {
   height: 264px;
 }
 
+#contact-info h2 {
+  font-variant: inherit;
+}
+
 /*
  =============================================
  Content Styles
