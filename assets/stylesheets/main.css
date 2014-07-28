@@ -544,6 +544,11 @@ a {
   font-variant: inherit;
 }
 
+#partnership {
+  padding-top: 50px;
+  text-align: center;
+}
+
 /*
  =============================================
  Content Styles
