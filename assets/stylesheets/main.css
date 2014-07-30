@@ -431,7 +431,9 @@ a {
 #about-what,
 #about-why,
 #about-how {
-  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
 }
 
 .foldtr {
