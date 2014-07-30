@@ -427,6 +427,13 @@ a {
   padding-top: 80px;
 }
 
+#about-who,
+#about-what,
+#about-why,
+#about-how {
+  text-align: center;
+}
+
 .foldtr {
   position: relative;
    -webkit-box-shadow: -5px 7px 5px rgba(0,0,0,0.8);
