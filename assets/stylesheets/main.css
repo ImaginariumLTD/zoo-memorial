@@ -427,6 +427,13 @@ a {
   
 }
 
+.triange {
+  width: 0px;
+  height: 0px;
+  border-top: 170px solid #000;
+  border-right: 170px solid transparent;
+}
+
 /*
  =============================================
  Projects Page
