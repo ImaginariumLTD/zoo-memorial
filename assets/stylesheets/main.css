@@ -441,22 +441,11 @@ a {
   right: 0%;
   width: 0px;
   height: 0px;
-  border-bottom: 70px solid #eee;
-  border-right: 70px solid transparent;
+  border-right: 170px solid #f6f8f8;
+  border-bottom: 170px solid transparent;
   -webkit-box-shadow: -7px 7px 7px rgba(0,0,0,0.3);
   -moz-box-shadow: -7px 7px 7px rgba(0,0,0,0.3);
     box-shadow: -7px 7px 7px rgba(0,0,0,0.3);
-}
-
-.foldtl:after {
-  content: "";
-  position: absolute;
-  top: 0%;
-  right: 0%;
-  width: 0px;
-  height: 0px;
-  border-top: 69px solid #272822; 
-  border-left: 69px solid transparent;
 }
 
 /*
