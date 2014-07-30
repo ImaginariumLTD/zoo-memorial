@@ -427,6 +427,12 @@ a {
   
 }
 
+.foldtr {
+  position: relative;
+  -webkit-box-shadow: -5px 7px 5px rgba(0, 0, 0, 0.8);
+          box-shadow: -5px 7px 5px rgba(0, 0, 0, 0.8);
+}
+
 .triange {
   width: 0px;
   height: 0px;
