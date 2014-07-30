@@ -422,6 +422,14 @@ a {
  ============================================
 */
 
+#about-who {
+  position: relative;
+  height: auto;
+  width: auto;
+  overflow: hidden;
+  background-color: grey;
+}
+
 /*
  =============================================
  Projects Page
