@@ -235,7 +235,7 @@ html {
 
 h1, h2, h3, h4,
 .primary-nav {
-  font:400 small-caps 16px/22px 'Josefin Sans', sans-serif;
+  font:400 16px/22px 'Josefin Sans', sans-serif;
 }
 
 h1, h2, h3, h4, p {
@@ -423,11 +423,7 @@ a {
 */
 
 #about-who {
-  position: relative;
-  height: auto;
-  width: auto;
-  overflow: hidden;
-  background-color: grey;
+  
 }
 
 /*
@@ -499,7 +495,8 @@ a {
 
 .community-gains {
   border: 2px solid #9fd1b6;
-  border-radius: 4px;
+  -webkit-border-radius: 4px;
+          border-radius: 4px;
 }
 
 .nav-tabs {
@@ -511,7 +508,8 @@ a {
   border-left: 3px solid #f5c094;
   border-right: 3px solid #f5c094;
   border-bottom: 3px solid #f5c094;
-  border-radius: 0 0 4px 4px;
+  -webkit-border-radius: 0 0 4px 4px;
+          border-radius: 0 0 4px 4px;
   padding: 20px;
 }
 
@@ -522,7 +520,8 @@ a {
 */
 
 .team-info img {
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   float: right;
   padding: 0px;
   margin:0px;
@@ -548,7 +547,8 @@ a {
 #clement-mwangi,
 #nelly-odongo,
 #june-odongo {
-  border-radius: 5px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
   margin-bottom: 40px;
 }
 
@@ -613,7 +613,8 @@ a {
 */
 
 .round-borders {
-  border-radius: 5px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
 }
 
 #content-section {
