@@ -451,6 +451,9 @@ a {
  About Page
  ============================================
 */
+.about {
+  border-top: 3px solid #ddd;
+}
 
 #about-who {
   padding-top: 80px;
