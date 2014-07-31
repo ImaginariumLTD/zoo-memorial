@@ -455,6 +455,10 @@ a {
   border-top: 3px solid #ddd;
 }
 
+.about article ul li {
+  list-style-type: disc;
+}
+
 #about-who {
   padding-top: 80px;
 }
