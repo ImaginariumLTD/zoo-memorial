@@ -333,6 +333,16 @@ a {
   border-color: #fff;
 }
 
+.carousel-caption h2 {
+  color: #ea8128;
+  font-weight: bold;
+}
+
+.carousel-caption p {
+  color: #37a66f;
+  font-weight: bold;
+}
+
 /*
  =============================================
  Home
