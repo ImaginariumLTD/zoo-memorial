@@ -459,6 +459,9 @@ a {
   list-style-type: disc;
 }
 
+.about article ol li {
+  list-style-type: decimal;
+}
 #about-who {
   padding-top: 80px;
 }
