@@ -380,6 +380,7 @@ a {
   color: #fff;
   display: inline-block;
   margin: 20px;
+  text-shadow: 1px 1px 1px #222;
 }
 
 .values ul li:nth-child(1) {
