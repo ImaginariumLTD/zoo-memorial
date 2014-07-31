@@ -435,6 +435,11 @@ a {
   color: ;
 }
 
+.one-edge-shadow {
+  -webkit-box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 8px 6px -6px black;
+}
+
 /*
  ============================================
  About Page
@@ -457,7 +462,6 @@ a {
 .foldtr {
   position: relative;
    -webkit-box-shadow: -5px 7px 5px rgba(0,0,0,0.8);
-   -moz-box-shadow: -5px 7px 5px rgba(0,0,0,0.8);
    box-shadow: -5px 7px 5px rgba(0,0,0,0.8);
 }
 
@@ -471,7 +475,6 @@ a {
   border-right: 170px solid #f6f8f8;
   border-bottom: 170px solid transparent;
   -webkit-box-shadow: -7px 7px 7px rgba(0,0,0,0.3);
-  -moz-box-shadow: -7px 7px 7px rgba(0,0,0,0.3);
     box-shadow: -7px 7px 7px rgba(0,0,0,0.3);
 }
 
