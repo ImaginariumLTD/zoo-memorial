@@ -174,7 +174,7 @@ html {
 }
 
 .row-2 {
-  background-color: #f6f6f6;
+  background-color: #E0E1E3;
 }
 
 .row-3 {
@@ -409,7 +409,7 @@ a {
 }
 
 .intro {
-  background-color: #E0E1E3;
+  background-color: #fbfbfb;
   -webkit-border-radius: 2px;
           border-radius: 2px;
   padding: 40px;
@@ -425,8 +425,7 @@ a {
 }
 
 .mission {
-  background-color: ;
-  color: ;
+  background-color: #fbfbfb ;
 }
 
 .one-edge-shadow {
