@@ -201,7 +201,7 @@ html {
 }
 
 .homepg-row-2 {
-  border-top: 3px solid #ddd;
+  border-top: 2.8px solid #ccc;
   margin-top: -20px;
 }
 
@@ -757,7 +757,7 @@ nav.secondary-nav ul li {
 
 .primary-footer {
   background-color: #fff;
-  border-top: 2.8px solid #ddd;
+  border-top: 2.8px solid #ccc;
   padding-top: 35px;
   padding-right: 15px;
   padding-bottom: 20px;
