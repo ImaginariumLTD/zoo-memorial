@@ -54,6 +54,7 @@ table {
 */
 
 body {
+  background-color: rgb(0, 0, 0, 0);
   color: #141c24;
   font: 300 15px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
