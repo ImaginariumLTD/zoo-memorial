@@ -462,6 +462,16 @@ a {
   text-align: justify;
 }
 
+#about-objectives,
+#about-why {
+  margin-right: 9px;
+}
+
+#about-what,
+#about-how {
+  margin-left: 9px;
+}
+
 .list-styles {
   padding-left: 20px;
   padding-right: 20px;
