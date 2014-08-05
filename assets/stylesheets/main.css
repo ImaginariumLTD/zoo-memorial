@@ -206,7 +206,6 @@ html {
 }
 
 #filler-row {
-  /*
   background-image: -webkit-gradient(
     linear,
     right top,
@@ -220,9 +219,8 @@ html {
   background-image: -ms-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
   background-image: linear-gradient(to left, #F0B37E 38%, #EB9850 73%);
   color: #fff;
-  */
   border-top: 2px solid #fbfdfc;
-  padding: 80px 40px;
+  padding: 40px 20px;
 }
 
 /*
