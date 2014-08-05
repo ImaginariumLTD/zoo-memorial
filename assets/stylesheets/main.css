@@ -477,15 +477,16 @@ a {
 }
 
 #about-what {
-  border: 2px solid #8ac63f;
+  background-color: #8ac63f;
 }
 
 #about-why {
-  border: 2px solid #000;
+  background-color: #ea862c;
 }
 
 #about-how {
-  border: 2px solid #000;
+  border: 2px solid #8ac63f;
+  margin-top: -5px;
 }
 
 .list-styles {
