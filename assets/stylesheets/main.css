@@ -472,6 +472,10 @@ a {
   margin-left: 9px;
 }
 
+#about-who {
+  margin-bottom: 70px;
+}
+
 #about-objectives {
   border: 2px solid #ea862c;
 }
@@ -685,7 +689,7 @@ a {
 }
 
 #content-section {
-  padding-top: 80px;
+  padding-top: 60px;
   padding-bottom: 90px;
 }
 
