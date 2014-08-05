@@ -214,11 +214,11 @@
 
   <script src="http://code.jquery.com/jquery.js"></script>
   <script type="text/javascript">
-  $(document).ready(function(){
+  $(document).ready(function() {
     $('.toggle-content').hide();
     $('h2.toggle-header').click(function() {
       $('.toggle-content').hide('slow');
-      $(this).parent().next('.toggle').toggle('slow');
+      $(this).parent().next('.toggle-content').toggle('slow');
       return false;
     });
   });
