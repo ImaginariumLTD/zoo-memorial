@@ -472,6 +472,22 @@ a {
   margin-left: 9px;
 }
 
+#about-objectives {
+  border: 2px solid #ea862c;
+}
+
+#about-what {
+  border: 2px solid #8ac63f;
+}
+
+#about-why {
+  border: 2px solid #000;
+}
+
+#about-how {
+  border: 2px solid #000;
+}
+
 .list-styles {
   padding-left: 20px;
   padding-right: 20px;
