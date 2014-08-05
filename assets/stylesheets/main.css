@@ -230,6 +230,10 @@ html {
   color: #5e5e5e;
 }
 
+.photo-background {
+  background: url("../images/photographyXL.png") repeat;
+}
+
 /*
  ===========================================
  Typography
