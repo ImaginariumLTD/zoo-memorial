@@ -218,11 +218,13 @@ html {
   background-image: -webkit-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
   background-image: -ms-linear-gradient(left, #F0B37E 38%, #EB9850 73%);
   background-image: linear-gradient(to left, #F0B37E 38%, #EB9850 73%);
-  color: #fff;
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
 
+#filler-row h2 {
+  color: #eee;
+}
 /*
  ===========================================
  Typography
