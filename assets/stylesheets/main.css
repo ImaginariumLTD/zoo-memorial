@@ -458,9 +458,6 @@ a {
 .about article ol li {
   list-style-type: decimal;
 }
-#about-who {
-  padding-top: 80px;
-}
 
 #about-who,
 #about-what,
@@ -470,7 +467,6 @@ a {
   padding-right: 20px;
   text-align: justify;
 }
-
 
 /*
  =============================================
