@@ -385,12 +385,12 @@ a {
 }
 
 .values ul li:nth-child(1) {
-  background-color: #019875;
+  background-color: #8ac63f;
   padding: 35px 25px;
 }
 
 .values ul li:nth-child(2) {
-  background-color: #1abc9c;
+  background-color: #a2d266;
   padding: 52px 25px;
 }
 
@@ -400,12 +400,12 @@ a {
 }
 
 .values ul li:nth-child(4) {
-  background-color: #ff7061;
+  background-color: #e8594a;
   padding: 52px 20px;
 }
 
 .values ul li:nth-child(5) {
-  background-color: #E74C3C;
+  background-color: #e22f1d;
   padding: 40px 24px;
 }
 
