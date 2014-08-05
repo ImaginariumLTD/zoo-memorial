@@ -225,6 +225,11 @@ html {
 #filler-row h2 {
   color: #eee;
 }
+
+#filler-row p {
+  color: #5e5e5e;
+}
+
 /*
  ===========================================
  Typography
