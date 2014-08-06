@@ -222,11 +222,29 @@ html {
   padding: 40px 20px;
 }
 
+#team-filler {
+background-image: -webkit-gradient(
+    linear,
+    right top,
+    left top,
+    color-stop(0, #ea6659),
+    color-stop(0.73, #e8594a)
+  );
+  background-image: -o-linear-gradient(left, #ea6659 38%, #e8594a 73%);
+  background-image: -moz-linear-gradient(left, #ea6659 38%, #e8594a 73%);
+  background-image: -webkit-linear-gradient(left, #ea6659 38%, #e8594a 73%);
+  background-image: -ms-linear-gradient(left, #ea6659 38%, #e8594a 73%);
+  background-image: linear-gradient(to left, #ea6659 38%, #e8594a 73%);
+  border-top: 2px solid #fbfdfc;
+  padding: 40px 20px;
+}
+#team-filler h2,
 #about-filler h2 {
   color: #eee;
 }
 
-#about-filler p {
+#about-filler p,
+#team-filler p {
   color: #5e5e5e;
 }
 
