@@ -694,6 +694,10 @@ nav.primary-nav ul li {
   vertical-align: middle;
 }
 
+nav.primary-nav > a {
+  text-transform: capitalize; 
+}
+
 .primary-nav {
   font-size: 19px;
   font-variant: small-caps;
