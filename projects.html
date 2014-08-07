@@ -142,18 +142,24 @@
 
           <div class="aim-achieve hor-center">
             
-            <h3>What we aim to achieve</h3>
+            <h3 class="toggle-header">What we aim to achieve</h3>
 
-            <p>#1. Gain a usage rate of 100 users daily</p>
-            <p>#2. Impart ICT skills training to 1000 persons annually</p>
+            <p class="toggle-content">
+              
+              <ul>
+                <li>#1. Gain a usage rate of 100 users daily</li>
+                <li>#2. Impart ICT skills training to 1000 persons annually</li>
+              </ul>
+            
+            </p>
           
           </div>
 
           <div class="community-gains">
 
-            <h3 class="hor-center">What the community gains</h3>
+            <h3 class="hor-center toggle-header">What the community gains</h3>
 
-            <p>
+            <p class="toggle-content">
               
               <ul>
                 <li><b>Access to ICT</b>&mdash; The ICT centers will provide accessible areas for the community to utilise
@@ -208,6 +214,15 @@
     $('#tabs-first a').click(function (e){
       e.preventDefault()
       $(this).tab('show')
+    });
+    </script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+      $('.toggle-content').hide();
+      $('h2.toggle-header').click(function(event) {
+        $(this).siblings('.toggle-content').toggle('slow');
+        return event.preventDefault();
+      });
     });
     </script>
   
