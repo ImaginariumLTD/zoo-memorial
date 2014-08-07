@@ -143,37 +143,44 @@
           <div class="aim-achieve hor-center">
             
             <h3 class="toggle-header">What we aim to achieve</h3>
-
-            <p class="toggle-content">
-              
-              <ul>
-                <li>#1. Gain a usage rate of 100 users daily</li>
-                <li>#2. Impart ICT skills training to 1000 persons annually</li>
-              </ul>
             
-            </p>
-          
+            <div class="toggle-content">
+
+              <p>
+                
+                <ul>
+                  <li>#1. Gain a usage rate of 100 users daily</li>
+                  <li>#2. Impart ICT skills training to 1000 persons annually</li>
+                </ul>
+              
+              </p>
+
+            </div>
+            
           </div>
 
           <div class="community-gains">
 
             <h3 class="hor-center toggle-header">What the community gains</h3>
-
-            <p class="toggle-content">
-              
-              <ul>
-                <li><b>Access to ICT</b>&mdash; The ICT centers will provide accessible areas for the community to utilise
-                information communications technology.</li>
-                <li><b>Exposure</b>&mdash; ICT will provide opportunities for exposure and encourage repeat visits to the
-                centers enabling worldwide interactions.</li>
-                <li><b>Training</b>&mdash; The ICT centers will offer affordable training in efforts to increase computer
-                literacy in undeserved and rural areas.</li>
-                <li><b>Network</b>&mdash; The foundation will build a strong community of people who have similar interests.
-                This will allow for the exchange of information for development.</li>
-              </ul>
             
-            </p>
-          
+            <div class="toggle-content">
+              
+              <p>
+                
+                <ul>
+                  <li><b>Access to ICT</b>&mdash; The ICT centers will provide accessible areas for the community to utilise
+                  information communications technology.</li>
+                  <li><b>Exposure</b>&mdash; ICT will provide opportunities for exposure and encourage repeat visits to the
+                  centers enabling worldwide interactions.</li>
+                  <li><b>Training</b>&mdash; The ICT centers will offer affordable training in efforts to increase computer
+                  literacy in undeserved and rural areas.</li>
+                  <li><b>Network</b>&mdash; The foundation will build a strong community of people who have similar interests.
+                  This will allow for the exchange of information for development.</li>
+                </ul>
+              
+              </p>
+
+            </div>
           </div>
 
 
@@ -219,7 +226,7 @@
     <script type="text/javascript">
     $(document).ready(function() {
       $('.toggle-content').hide();
-      $('h2.toggle-header').click(function(event) {
+      $('h3.toggle-header').click(function(event) {
         $(this).siblings('.toggle-content').toggle('slow');
         return event.preventDefault();
       });
