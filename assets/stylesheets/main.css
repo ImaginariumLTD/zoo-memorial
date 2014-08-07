@@ -468,11 +468,6 @@ a {
   background-color: #fbfbfb ;
 }
 
-.one-edge-shadow {
-  -webkit-box-shadow: 0 8px 6px -6px black;
-          box-shadow: 0 8px 6px -6px black;
-}
-
 .sexy-gray {
   background-color: #e9eaeb;
 }
