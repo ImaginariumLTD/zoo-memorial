@@ -549,6 +549,10 @@ a {
  ============================================
 */
 
+.aim-achieve {
+  margin: 40px 10px;
+}
+
 .community-gains {
   border: 2px solid #9fd1b6;
   -webkit-border-radius: 4px;
