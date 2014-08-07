@@ -159,14 +159,14 @@ html {
   *zoom:1;
 }
 
-/* 
+/*
  ===========================================
  Rows
  ===========================================
 */
 
 .row {
-  min-width: 1000px; 
+  min-width: 1000px;
   margin: 0 auto;
 }
 
@@ -321,7 +321,7 @@ cite, em {
   text-align: center;
 }
 
-/* 
+/*
  =============================================
  Leads
  =============================================
@@ -578,12 +578,12 @@ a {
   padding: 20px;
 }
 
-img { 
-  max-width: 100%; 
-  height: auto; 
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-/* 
+/*
  =============================================
  Team Page
  =============================================
@@ -657,10 +657,10 @@ img {
 
 #partnership-criteria  article ul {
   list-style-position: inside;
-  list-style-type: circle; 
+  list-style-type: circle;
 }
 
-/* 
+/*
  ===========================================
  Leads
  ===========================================
@@ -709,7 +709,7 @@ nav.primary-nav ul li {
 }
 
 nav.primary-nav > a {
-  text-transform: capitalize; 
+  text-transform: capitalize;
 }
 
 .primary-nav {
@@ -777,4 +777,13 @@ nav.secondary-nav ul li {
   bottom: 5px;
   padding-top: 10px;
   padding-left: 15px;
+}
+
+
+/* styling grid elements */
+h2.toggle-header{
+  cursor: pointer;
+}
+h2.toggle-header:hover{
+  text-decoration: underline;
 }
