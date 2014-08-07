@@ -431,27 +431,27 @@ a {
 }
 
 .values ul li:nth-child(1) {
-  background-color: #8ac63f;
+  background-color: #a2d266;
   padding: 35px 25px;
 }
 
 .values ul li:nth-child(2) {
-  background-color: #a2d266;
+  background-color: #8ac63f;
   padding: 52px 25px;
 }
 
 .values ul li:nth-child(3) {
-  background-color: #f0a566;
+  background-color: #ea862c;
   padding: 62px 18px;
 }
 
 .values ul li:nth-child(4) {
-  background-color: #e8594a;
+  background-color: #e22f1d;
   padding: 52px 20px;
 }
 
 .values ul li:nth-child(5) {
-  background-color: #e22f1d;
+  background-color: #e8594a;
   padding: 40px 24px;
 }
 
@@ -570,9 +570,9 @@ a {
 }
 
 .tab-content {
-  border-left: 3px solid #f5c094;
-  border-right: 3px solid #f5c094;
-  border-bottom: 3px solid #f5c094;
+  border-left: 3px solid #ea862c;
+  border-right: 3px solid #ea862c;
+  border-bottom: 3px solid #ea862c;
   -webkit-border-radius: 0 0 4px 4px;
           border-radius: 0 0 4px 4px;
   padding: 20px;
