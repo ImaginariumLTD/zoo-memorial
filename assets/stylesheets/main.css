@@ -591,11 +591,6 @@ a {
   border-bottom: 3px solid #fff;
 }
 
-/*
-.nav-tabs.nav-justified > li > a {
-  border-left: 3px solid #f2b279;
-}*/
-
 .tab-content {
   border-left: 3px solid #f2b279;
   border-right: 3px solid #f2b279;
