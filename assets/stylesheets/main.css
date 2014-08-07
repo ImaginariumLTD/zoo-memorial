@@ -245,13 +245,13 @@ background-image: -webkit-gradient(
     right top,
     left top,
     color-stop(0, #aad673),
-    color-stop(0.73, #e8594a)
+    color-stop(0.73, #8ac63f)
   );
-  background-image: -o-linear-gradient(left, #aad673 38%, #e8594a 73%);
-  background-image: -moz-linear-gradient(left, #aad673 38%, #e8594a 73%);
-  background-image: -webkit-linear-gradient(left, #aad673 38%, #e8594a 73%);
-  background-image: -ms-linear-gradient(left, #aad673 38%, #e8594a 73%);
-  background-image: linear-gradient(to left, #aad673 38%, #e8594a 73%);
+  background-image: -o-linear-gradient(left, #aad673 38%, #8ac63f 73%);
+  background-image: -moz-linear-gradient(left, #aad673 38%, #8ac63f 73%);
+  background-image: -webkit-linear-gradient(left, #aad673 38%, #8ac63f 73%);
+  background-image: -ms-linear-gradient(left, #aad673 38%, #8ac63f 73%);
+  background-image: linear-gradient(to left, #aad673 38%, #8ac63f 73%);
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
@@ -466,11 +466,6 @@ a {
 
 .mission {
   background-color: #fbfbfb ;
-}
-
-.one-edge-shadow {
-  -webkit-box-shadow: 0 8px 6px -6px black;
-          box-shadow: 0 8px 6px -6px black;
 }
 
 .sexy-gray {
