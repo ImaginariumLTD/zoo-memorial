@@ -550,7 +550,11 @@ a {
 */
 
 .aim-achieve {
-  margin: 40px 10px;
+  border: 2px solid #fcbcb4;
+  -webkit-border-radius: 4px;
+          border-radius: 4px;
+  margin: 40px 0px;
+  padding: 20px 20px;
 }
 
 .community-gains {
