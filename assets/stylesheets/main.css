@@ -557,6 +557,7 @@ a {
   border: 2px solid #9fd1b6;
   -webkit-border-radius: 4px;
           border-radius: 4px;
+  padding: 20px 20px;
 }
 
 .nav-tabs {
