@@ -140,6 +140,19 @@ html {
 
 /*
  ===========================================
+ Jquery Hover Styles
+ ===========================================
+*/
+
+h2.toggle-header{
+  cursor: pointer;
+}
+h2.toggle-header:hover{
+  text-decoration: underline;
+}
+
+/*
+ ===========================================
  Clearfix
  ===========================================
 */
@@ -802,10 +815,3 @@ nav.secondary-nav ul li {
 }
 
 
-/* styling grid elements */
-h2.toggle-header{
-  cursor: pointer;
-}
-h2.toggle-header:hover{
-  text-decoration: underline;
-}
