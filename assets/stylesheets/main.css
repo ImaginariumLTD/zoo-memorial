@@ -236,18 +236,18 @@ h2.toggle-header:hover{
 }
 
 #team-filler {
-background-image: -webkit-gradient(
+  background-image: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    color-stop(0, #ea6659),
-    color-stop(0.73, #e8594a)
+    color-stop(0.17, #E85A4A),
+    color-stop(1, #E64C3B)
   );
-  background-image: -o-linear-gradient(bottom, #ea6659 38%, #e8594a 73%);
-  background-image: -moz-linear-gradient(bottom, #ea6659 38%, #e8594a 73%);
-  background-image: -webkit-linear-gradient(bottom, #ea6659 38%, #e8594a 73%);
-  background-image: -ms-linear-gradient(bottom, #ea6659 38%, #e8594a 73%);
-  background-image: linear-gradient(to bottom, #ea6659 38%, #e8594a 73%);
+  background-image: -o-linear-gradient(bottom, #E85A4A 17%, #E64C3B 100%);
+  background-image: -moz-linear-gradient(bottom, #E85A4A 17%, #E64C3B 100%);
+  background-image: -webkit-linear-gradient(bottom, #E85A4A 17%, #E64C3B 100%);
+  background-image: -ms-linear-gradient(bottom, #E85A4A 17%, #E64C3B 100%);
+  background-image: linear-gradient(to bottom, #E85A4A 17%, #E64C3B 100%);
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
