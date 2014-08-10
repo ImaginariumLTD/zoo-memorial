@@ -238,8 +238,8 @@ h2.toggle-header:hover{
 #team-filler {
 background-image: -webkit-gradient(
     linear,
-    right top,
     left top,
+    left bottom,
     color-stop(0, #ea6659),
     color-stop(0.73, #e8594a)
   );
@@ -255,8 +255,8 @@ background-image: -webkit-gradient(
 #projects-filler {
 background-image: -webkit-gradient(
     linear,
-    right top,
     left top,
+    left bottom,
     color-stop(0, #aad673),
     color-stop(0.73, #8ac63f)
   );
