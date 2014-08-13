@@ -785,8 +785,9 @@ nav.secondary-nav ul li {
 }
 
 .primary-footer {
-  background-color: #fff;
+  background-color: #666;
   border-top: 2.8px solid #ccc;
+  color: #fff;
   padding-top: 35px;
   padding-right: 15px;
   padding-bottom: 20px;
