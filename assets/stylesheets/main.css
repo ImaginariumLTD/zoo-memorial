@@ -294,7 +294,7 @@ h2.toggle-header:hover{
 
 h1, h2, h3, h4,
 .primary-nav {
-  font:400 16px/22px 'Josefin Sans', sans-serif;
+  font:700 16px/22px 'Josefin Sans', sans-serif;
   text-transform: capitalize;
 }
 
@@ -428,7 +428,6 @@ a {
 }
 
 .values h2 {
-  font-weight: bolder;
   padding: 5px 0px;
 }
 
