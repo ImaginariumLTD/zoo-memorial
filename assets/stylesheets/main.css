@@ -232,6 +232,8 @@ h2.toggle-header:hover{
   background-image: -webkit-linear-gradient(top, #008CCD 20%, #00A3EF 100%);
   background-image: -ms-linear-gradient(top, #008CCD 20%, #00A3EF 100%);
   background-image: linear-gradient(to top, #008CCD 20%, #00A3EF 100%);
+  border-top: 2px solid #fbfdfc;
+  padding: 40px 20px;
 }
 
 #green-filler {
@@ -286,12 +288,14 @@ h2.toggle-header:hover{
   padding: 40px 20px;
 }
 
+#blue-filler h2,
+#green-filler h2,
 #orange-filler h2,
-#red-filler h2,
-#green-filler h2 {
+#red-filler h2 {
   color: #eee;
 }
 
+#blue-filler p, 
 #orange-filler p,
 #team-filler p {
   color: #b3b3b3;
