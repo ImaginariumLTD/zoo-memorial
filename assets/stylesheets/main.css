@@ -707,9 +707,11 @@ img {
 */ 
 
 
-img {
-  max-width: 100%;
-  height: auto;
+img #partner-image {
+  background: #FFFFF0;
+  border: 1px solid #9799a7;
+  margin-bottom: 20px;
+  padding: 4px;
 }
 
 /*
