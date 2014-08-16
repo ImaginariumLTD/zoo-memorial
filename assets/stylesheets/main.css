@@ -219,6 +219,10 @@ h2.toggle-header:hover{
   margin-top: -20px;
 }
 
+#blue-filler {
+  
+}
+
 #green-filler {
   background-image: -webkit-gradient(
     linear,
@@ -232,6 +236,24 @@ h2.toggle-header:hover{
   background-image: -webkit-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
   background-image: -ms-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
   background-image: linear-gradient(to bottom, #F0B37E 20%, #EB9850 100%);
+  border-top: 2px solid #fbfdfc;
+  padding: 40px 20px;
+}
+
+
+#orange-filler {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #99CE59),
+    color-stop(1, #89C63F)
+  );
+  background-image: -o-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
+  background-image: -moz-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
+  background-image: -webkit-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
+  background-image: -ms-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
+  background-image: linear-gradient(to bottom, #a2d266 20%, #8ac63f 100%);
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
@@ -252,24 +274,6 @@ h2.toggle-header:hover{
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
-
-#orange-filler {
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    color-stop(0, #99CE59),
-    color-stop(1, #89C63F)
-  );
-  background-image: -o-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
-  background-image: -moz-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
-  background-image: -webkit-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
-  background-image: -ms-linear-gradient(bottom, #a2d266 20%, #8ac63f 100%);
-  background-image: linear-gradient(to bottom, #a2d266 20%, #8ac63f 100%);
-  border-top: 2px solid #fbfdfc;
-  padding: 40px 20px;
-}
-
 
 #orange-filler h2,
 #red-filler h2,
