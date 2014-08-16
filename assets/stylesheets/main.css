@@ -690,14 +690,14 @@ img {
 }
 
 #partnership-criteria {
-  padding-bottom: 20px;
-  padding-top: 50px;
-  text-align: center;
+
 }
 
 #partnership-criteria  article ul {
   list-style-position: inside;
   list-style-type: circle;
+  text-align: justify;
+  padding: 20px 20%;
 }
 
 /*
