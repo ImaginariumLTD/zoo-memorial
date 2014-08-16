@@ -219,7 +219,7 @@ h2.toggle-header:hover{
   margin-top: -20px;
 }
 
-#about-filler {
+#green-filler {
   background-image: -webkit-gradient(
     linear,
     left top,
@@ -253,7 +253,7 @@ h2.toggle-header:hover{
   padding: 40px 20px;
 }
 
-#projects-filler {
+#orange-filler {
   background-image: -webkit-gradient(
     linear,
     left top,
@@ -270,17 +270,14 @@ h2.toggle-header:hover{
   padding: 40px 20px;
 }
 
-#partners-filler {
 
-}
-
-#projects-filler h2,
-#team-filler h2,
-#about-filler h2 {
+#orange-filler h2,
+#red-filler h2,
+#green-filler h2 {
   color: #eee;
 }
 
-#about-filler p,
+#orange-filler p,
 #team-filler p {
   color: #b3b3b3;
 }
