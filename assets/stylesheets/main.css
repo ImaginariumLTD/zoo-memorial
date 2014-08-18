@@ -700,6 +700,11 @@ img {
   line-height: 1.5;
 }
 
+.contact-nav {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
 #partnership {
   padding-bottom: 40px;
   padding-top: 40px;
