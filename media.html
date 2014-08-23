@@ -6,19 +6,22 @@
     <title>Zoo Memorial Foundation</title>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="assets/stylesheets/main.css">  
+    <link rel="stylesheet" href="assets/stylesheets/main.css">
     <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+    <link rel="stylesheet" href="assets/stylesheets/bootstrap-image-gallery.min.css">
+
   </head>
-  
+
   <body>
 
   <!-- Header -->
 
     <header class="hor-center my-container primary-header">
-      
-      
+
+
       <nav class="primary-nav">
         <ul>
           <li><a href="about.html">About</a></li>
@@ -34,49 +37,94 @@
     </header>
 
   <!-- Content -->
-  
+
   <div id="filler-row">
-  
+
     <section class="lead row">
 
-      <h1>Media</h1>  
+      <h1>Media</h1>
 
     </section>
-  
+
   </div>
-  
+
   <div class="row-1 row">
+    <div id="links"></div>
+    <br/>
   </div>
-      
+
   <!-- Footer -->
 
     <footer class="cf primary-footer row">
-      
+
       <div class="col-1-3">
         <small>&copy;2014 ZOO Memorial Foundation</small>
       </div>
-            
+
       <div class="col-1-3 hor-center social-media-icons">
 
         <ul>
           <li><a href="https://twitter.com/ZOO_MFoundation" target="_blank"><img src="assets/images/social-02.gif"></a></li>
           <li><a href="https://www.facebook.com/pages/The-ZOO-Memorial-Foundation/1511324919086306" target="_blank"><img src="assets/images/social-03.gif"></a></li>
         </ul>
-        
+
       </div>
 
       <div class="col-1-3">
-      
+
         <p>The ZOO Memorial Foundation,<br>P. O. Box 75359 - 00200, <br> Nairobi, Kenya</p>
         <p>Email: info@zoomemorialfoundation.org</p>
         <p>Tel: +254 20 811 8888</p>
-        
+
       </div>
 
     </footer>
 
   <!-- End of Footer -->
-  
+
+
+
+
+<!-- lightbox -->
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+    <!-- The modal dialog, which will be used to wrap the lightbox content -->
+    <div class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title"></h4>
+                </div>
+                <div class="modal-body next"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left prev">
+                        <i class="glyphicon glyphicon-chevron-left"></i>
+                        Previous
+                    </button>
+                    <button type="button" class="btn btn-primary next">
+                        Next
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!-- Bootstrap JS is not required, but included for the responsive demo navigation and button states -->
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+<script src="assets/scripts/bootstrap-image-gallery.js"></script>
+<script src="assets/scripts/main.js"></script>
   </body>
 
 </html>
