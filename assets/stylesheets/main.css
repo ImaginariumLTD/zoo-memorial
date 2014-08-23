@@ -295,7 +295,7 @@ h2.toggle-header:hover{
   color: #eee;
 }
 
-#blue-filler p, 
+#blue-filler p,
 #orange-filler p,
 #team-filler p {
   color: #b3b3b3;
@@ -607,7 +607,7 @@ a {
   border-bottom: 3px solid #f2b279;
 }
 
-.nav>li>a:hover, 
+.nav>li>a:hover,
 .nav>li>a:focus {
   text-decoration: none;
   background-color: #f2b279;
@@ -620,7 +620,7 @@ a {
 }
 
 .nav-tabs.nav-justified>.active>a,
-.nav-tabs.nav-justified>.active>a:hover, 
+.nav-tabs.nav-justified>.active>a:hover,
 .nav-tabs.nav-justified>.active>a:focus {
   border-bottom: 3px solid #fff;
 }
@@ -723,7 +723,7 @@ img {
  ===========================================
  Partners
  ===========================================
-*/ 
+*/
 
 
 #partner-image {
@@ -838,3 +838,12 @@ nav.secondary-nav ul li {
 }
 
 
+/* gallery specific */
+a:hover {
+    color: lightblue;
+    text-decoration: none;
+}
+.modal {
+  overflow: auto;
+  color: #333;
+}
