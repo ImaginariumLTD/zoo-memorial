@@ -761,12 +761,12 @@ img {
 }
 
 #content-section {
-  box-shadow: 0px 0px 10px #fff;
   padding-top: 60px;
   padding-bottom: 90px;
 }
 
 .content-article {
+  box-shadow: 0px 0px 10px #fff;
   padding: 40px 30px;
 }
 
