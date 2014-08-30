@@ -766,8 +766,11 @@ img {
 }
 
 .content-article {
-  box-shadow: 0px 0px 10px #fff;
   padding: 40px 30px;
+}
+
+.box-shadow {
+  box-shadow: 0px 0px 10px #000;  
 }
 
 /*
