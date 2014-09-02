@@ -640,12 +640,6 @@ a {
   text-align: justify;
 }
 
-.tab-content .tab-pane ol {
- list-style-position: inside;
- list-style-type: decimal;
- text-align: justify; 
-}
-
 img {
   max-width: 100%;
   height: auto;
