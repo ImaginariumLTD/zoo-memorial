@@ -730,6 +730,21 @@ img {
   padding: 15px;
 }
 
+.emc-partner-image {
+  height: auto ;
+  width: 65%;
+}
+
+.ms-partner-image {
+  height: auto ;
+  width: 75%;
+}
+
+.zoo-partner-image {
+  height: auto ;
+  width: 75%;
+}
+
 /*
  ===========================================
  Leads
