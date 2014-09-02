@@ -634,6 +634,12 @@ a {
   padding: 20px;
 }
 
+.tab-content .tab-pane ul {
+  list-style-position: inside;
+  list-style-type: circle;
+  text-align: justify;
+}
+
 img {
   max-width: 100%;
   height: auto;
