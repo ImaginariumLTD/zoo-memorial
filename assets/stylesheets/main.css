@@ -328,9 +328,9 @@ h2.toggle-header:hover{
   color: #b3b3b3;
 }
 
-.photo-background {
-  background: url("../images/photographyXL.png") repeat;
-  /*background-color: #BDC3C7;*/
+.page-background {
+  /*background: url("../images/photographyXL.png") repeat;*/
+  background-color: #d9dcde;
 }
 
 /*
