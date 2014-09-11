@@ -246,7 +246,7 @@ h2.toggle-header:hover{
   padding: 40px 20px;
 }
 
-#green-filler {
+#orange-filler {
   background-image: -webkit-gradient(
     linear,
     left top,
@@ -280,7 +280,7 @@ h2.toggle-header:hover{
   padding: 40px 20px;  
 }
 
-#orange-filler {
+#green-filler {
   background-image: -webkit-gradient(
     linear,
     left top,
