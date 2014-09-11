@@ -558,6 +558,10 @@ a {
   list-style-type: decimal;
 }
 
+#about-who ul li {
+  list-style-type: disc;
+}
+
 #about-objectives,
 #about-who,
 #about-what,
