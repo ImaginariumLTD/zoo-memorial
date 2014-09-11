@@ -61,6 +61,13 @@ body {
   font: 300 15px/22px 'Ubuntu', sans-serif ;
 }
 
+/* Styles for fixing a responsive logo */
+
+.logo {
+  height: auto;
+  width: 250px;
+}
+
 /*
  ===========================================
  Grid
