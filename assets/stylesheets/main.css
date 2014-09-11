@@ -871,18 +871,21 @@ nav.secondary-nav ul li {
 .primary-footer {
   background-color: #2C3E50;
   border-top: 2.8px solid #ccc;
+  border-bottom: 3px solid #5e5e5e;
   color: #f5ba60;
-  padding-top: 35px;
+  padding-top: 45px;
   padding-right: 15px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
   padding-left: 15px;
 }
 
 .primary-footer small {
+  color: #5e5e5e;
   padding-top: 10px;
   padding-left: 15px;
+  position: relative;
+  top: 200px;
 }
-
 
 /* gallery specific */
 
