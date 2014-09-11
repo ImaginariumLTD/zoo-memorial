@@ -254,6 +254,22 @@ h2.toggle-header:hover{
   padding: 40px 20px;
 }
 
+#grey-filler {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #d5d5d5),
+    color-stop(1, #a2a2a2)
+  );
+  background-image: -o-linear-gradient(bottom, #a2a2a2 20%, #a2a2a2 100%);
+  background-image: -moz-linear-gradient(bottom, #a2a2a2 20%, #a2a2a2 100%);
+  background-image: -webkit-linear-gradient(bottom, #a2a2a2 20%, #a2a2a2 100%);
+  background-image: -ms-linear-gradient(bottom, #a2a2a2 20%, #a2a2a2 100%);
+  background-image: linear-gradient(to bottom, #a2a2a2 20%, #a2a2a2 100%);
+  border-top: 2px solid #fbfdfc;
+  padding: 40px 20px;  
+}
 
 #orange-filler {
   background-image: -webkit-gradient(
