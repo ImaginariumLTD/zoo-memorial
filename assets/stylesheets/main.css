@@ -227,7 +227,6 @@ h2.toggle-header:hover{
   padding-bottom: 15px;
   padding-left: 15px;
   padding-right: 15px;
-  text-shadow: 1px 1px 0px 1px #222;
 }
 
 #blue-filler {
@@ -579,7 +578,8 @@ a {
 }
 
 #about-who {
-  margin-bottom: 70px;
+  background-color: #FFFFF0;
+  padding-bottom: 60px;
 }
 
 #about-objectives {
@@ -606,6 +606,10 @@ a {
 
 .screaming-red {
   background-color: #e8594a;
+}
+
+div.grid.sexy-orange {
+  border-radius: 4px;
 }
 
 /*
