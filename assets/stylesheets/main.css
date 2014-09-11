@@ -223,10 +223,13 @@ h2.toggle-header:hover{
 .abt-row-0 {
   margin-top: 50px;
   margin-bottom: 0px;
-  padding-top: 25px;
-  padding-left: 35px;
-  padding-right: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-shadow: 1px 1px 0px 1px #222;
 }
+
 #blue-filler {
   background-image: -webkit-gradient(
     linear,
@@ -524,6 +527,10 @@ a {
 
 .mission {
   background-color: #fbfbfb ;
+}
+
+.calm-orange {
+  background-color: #f2b279;
 }
 
 .sexy-gray {
