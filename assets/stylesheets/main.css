@@ -318,7 +318,8 @@ h2.toggle-header:hover{
 #green-filler h2,
 #orange-filler h2,
 #red-filler h2 {
-  color: #eee;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
 }
 
 #blue-filler p,
