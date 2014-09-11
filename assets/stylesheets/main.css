@@ -220,6 +220,13 @@ h2.toggle-header:hover{
   margin-top: -20px;
 }
 
+.abt-row-0 {
+  margin-top: 50px;
+  margin-bottom: 0px;
+  padding-top: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
 #blue-filler {
   background-image: -webkit-gradient(
     linear,
