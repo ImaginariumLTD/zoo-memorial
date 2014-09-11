@@ -57,7 +57,7 @@ table {
 body {
   background-color: rgb(0, 0, 0, 0);
   /*border: 5px solid #000;*/
-  color: #141c24;
+  color: #4d4d4d;
   font: 300 15px/22px 'Ubuntu', sans-serif ;
 }
 
@@ -349,7 +349,7 @@ h1, h2, h3, h4, p {
 }
 
 h1, h2, h3, h4 {
-  color: rgb(20, 7, 2);
+  color: #444;
 }
 
 h1 {
