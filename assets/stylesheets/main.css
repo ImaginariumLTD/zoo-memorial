@@ -723,9 +723,14 @@ img {
 #clement-mwangi,
 #nelly-odongo,
 #june-odongo {
-  -webkit-border-radius: 5px;
-          border-radius: 5px;
   margin-bottom: 40px;
+}
+
+#clement-mwangi div.col-2-3,
+#nelly-odongo div.col-2-3,
+#june-odongo div.col-2-3 {
+  margin-bottom: 40px;
+  padding: 30px 35px;
 }
 
 /*
