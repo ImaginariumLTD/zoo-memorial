@@ -702,12 +702,11 @@ img {
 */
 
 .team-info img {
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
   float: right;
   padding: 0px;
   margin:0px;
-  with: 50%;
+  vertical-align: top;
+  width: 80%;
 }
 
 #nelly-odongo {
