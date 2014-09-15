@@ -733,6 +733,18 @@ img {
   padding: 30px 35px;
 }
 
+#clement-mwangi .team-info img {
+  border: 6px #fcebd0 solid;
+}
+
+#nelly-odongo .team-info img {
+  border: 6px #daedc2 solid;
+}
+
+#june-odongo .team-info img {
+  border: 6px #fbfbfb solid;
+}
+
 /*
  =============================================
  Contact Page
