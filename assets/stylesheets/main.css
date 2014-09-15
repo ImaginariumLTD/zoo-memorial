@@ -729,6 +729,7 @@ img {
 #clement-mwangi div.col-2-3,
 #nelly-odongo div.col-2-3,
 #june-odongo div.col-2-3 {
+  border-radius: 3px;
   margin-bottom: 40px;
   padding: 30px 35px;
 }
