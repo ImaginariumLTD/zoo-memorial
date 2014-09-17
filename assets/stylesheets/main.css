@@ -789,14 +789,13 @@ img {
  ===========================================
 */
 
-
 section #partner-image img {
   display: inline-block;
 }
 
 .emc-partner-image {
   height: auto ;
-  width: 25%;
+  width: 20%;
 }
 
 .ms-partner-image {
@@ -806,7 +805,7 @@ section #partner-image img {
 
 .zoo-partner-image {
   height: auto ;
-  width: 25%;
+  width: 23%;
 }
 
 .emc-partner-image,
@@ -818,6 +817,7 @@ section #partner-image img {
   margin: 0px;
   padding: 5px;
 }
+
 /*
  =============================================
  Content Styles
