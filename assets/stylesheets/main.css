@@ -825,6 +825,14 @@ section #partner-image img {
   margin: 10px;
 }
 
+.partner-row-inner {
+  padding: 20px;
+}
+
+.partner-row-outer {
+  padding: 20px;
+}
+
 /*
  =============================================
  Content Styles
