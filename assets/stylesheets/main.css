@@ -790,6 +790,7 @@ img {
 */
 
 section #partner-image img {
+  background-color: #fff;
   display: inline-block;
 }
 
@@ -800,6 +801,7 @@ section #partner-image img {
 
 .ms-partner-image {
   height: auto ;
+  vertical-align: top;
   width: 35%;
 }
 
