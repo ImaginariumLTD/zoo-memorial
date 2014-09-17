@@ -801,7 +801,6 @@ section #partner-image img {
 
 .ms-partner-image {
   height: auto ;
-  vertical-align: top;
   width: 35%;
 }
 
@@ -817,7 +816,6 @@ section #partner-image img {
   border: 3px solid #9799a7;
   border-radius: 5px;
   margin: 10px;
-  padding: 5px;
 }
 
 /*
