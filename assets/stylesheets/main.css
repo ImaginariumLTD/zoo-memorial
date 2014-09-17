@@ -790,13 +790,8 @@ img {
 */
 
 
-.partner-image {
-  background: #FEFEFA;
-  border: 3px solid #9799a7;
-  border-radius: 5px;
+section #partner-image img {
   display: inline-block;
-  margin: 0px;
-  padding: 5px;
 }
 
 .emc-partner-image {
@@ -814,6 +809,15 @@ img {
   width: 25%;
 }
 
+.emc-partner-image,
+.ms-partner-image,
+.zoo-partner-image {
+  background: #FEFEFA;
+  border: 3px solid #9799a7;
+  border-radius: 5px;
+  margin: 0px;
+  padding: 5px;
+}
 /*
  =============================================
  Content Styles
