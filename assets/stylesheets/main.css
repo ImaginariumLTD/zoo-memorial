@@ -809,6 +809,8 @@ section #partner-image img {
 
 .ms-partner-image {
   height: auto ;
+  padding-top: 50px;
+  padding-bottom: 50px;
   width: 35%;
 }
 
