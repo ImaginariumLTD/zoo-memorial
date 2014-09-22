@@ -923,7 +923,7 @@ nav.secondary-nav ul li {
   border-top: 2.8px solid #ccc;
   border-bottom: 3px solid #5e5e5e;
   color: #f5ba60;
-  padding-top: 45px;
+  padding-top: 35px;
   padding-right: 15px;
   padding-bottom: 50px;
   padding-left: 15px;
@@ -931,10 +931,10 @@ nav.secondary-nav ul li {
 
 .primary-footer small {
   color: #5e5e5e;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-left: 15px;
   position: relative;
-  top: 200px;
+  top: 140px;
 }
 
 /* gallery specific */
