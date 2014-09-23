@@ -687,10 +687,10 @@ div.grid.sexy-orange {
   border-bottom: 3px solid #fff;
 }
 
-.slider {
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
+.slider img {
+  border: 2px solid #a2a2a2;
+  border-radius: 5px;
+  padding: 10px;
 }
 
 .tab-content {
