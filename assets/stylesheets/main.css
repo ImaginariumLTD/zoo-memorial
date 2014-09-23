@@ -231,9 +231,9 @@ h2.toggle-header:hover{
   margin-top: 50px;
   margin-bottom: 0px;
   padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #blue-filler {
@@ -587,7 +587,7 @@ a {
   background-color: #f8cf90;
 }
 
-.hot-red {
+.stunning-red {
   background-color: #ea6859;
 }
 
