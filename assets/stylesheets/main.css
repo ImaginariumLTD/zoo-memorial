@@ -309,14 +309,14 @@ h2.toggle-header:hover{
     linear,
     left top,
     left bottom,
-    color-stop(0.17, #E85A4A),
-    color-stop(1, #E64C3B)
+    color-stop(0.17, #ec7568),
+    color-stop(1, #ea6859)
   );
-  background-image: -o-linear-gradient(bottom, #ea6859 20%, #E64C3B 100%);
-  background-image: -moz-linear-gradient(bottom, #ea6859 20%, #E64C3B 100%);
-  background-image: -webkit-linear-gradient(bottom, #ea6859 20%, #E64C3B 100%);
-  background-image: -ms-linear-gradient(bottom, #ea6859 20%, #E64C3B 100%);
-  background-image: linear-gradient(to bottom, #ea6859 20%, #E64C3B 100%);
+  background-image: -o-linear-gradient(bottom, #ec7568 20%, #ea6859 100%);
+  background-image: -moz-linear-gradient(bottom, #ec7568 20%, #ea6859 100%);
+  background-image: -webkit-linear-gradient(bottom, #ec7568 20%, #ea6859 100%);
+  background-image: -ms-linear-gradient(bottom, #ec7568 20%, #ea6859 100%);
+  background-image: linear-gradient(to bottom, #ec7568 20%, #ea6859 100%);
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
