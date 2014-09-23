@@ -430,7 +430,7 @@ cite, em {
 
 .green-headshot {
   color: #5d8828;
-  text-shadow: 1px 1px 1px #333;
+  text-shadow: 1px 1px 0px #333;
 }
 
 /*
