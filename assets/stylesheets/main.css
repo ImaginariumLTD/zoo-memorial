@@ -336,8 +336,12 @@ h2.toggle-header:hover{
 }
 
 .page-background {
-  /*background: url("../images/photographyXL.png") repeat;*/
   background-color: #d9dcde;
+}
+
+.cream-background {
+  /*background: url("../images/photographyXL.png") repeat;*/
+  background-color: #fffef2;
 }
 
 /*
@@ -690,6 +694,7 @@ div.grid.sexy-orange {
 }
 
 .slider img {
+  background-color: #fffef2;
   border: 2px solid #a2a2a2;
   border-radius: 5px;
   padding: 10px;
