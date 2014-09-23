@@ -831,6 +831,10 @@ img {
   height: 264px;
 }
 
+#contact-info {
+  border: 3px solid #aaa;
+}
+
 #contact-info p {
   font-variant: inherit;
 }
