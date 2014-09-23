@@ -653,6 +653,10 @@ div.grid.sexy-orange {
   padding: 20px 20px;
 }
 
+.cream-background #content-section {
+  border-radius: 5px;
+}
+
 .community-gains {
   border: 3px solid #e8594a;
   -webkit-border-radius: 4px;
