@@ -678,13 +678,15 @@ div.grid.sexy-orange {
 .nav-tabs.nav-justified>.active>a,
 .nav-tabs.nav-justified>.active>a:hover,
 .nav-tabs.nav-justified>.active>a:focus{
+  background-color: #f2b279
   border: 3px solid #f2b279;
 }
 
 .nav-tabs.nav-justified>.active>a,
 .nav-tabs.nav-justified>.active>a:hover,
 .nav-tabs.nav-justified>.active>a:focus {
-  border-bottom: 3px solid #fff;
+  background-color: #f2b279;
+  border-bottom: 1px solid #fff;
 }
 
 .slider img {
