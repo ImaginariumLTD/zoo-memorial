@@ -655,6 +655,7 @@ div.grid.sexy-orange {
   border: 3px solid #ccc;
   -webkit-border-radius: 45px;
           border-radius: 45px;
+  margin-top: 20px;
 }
 
 .arrow-wrapper-stat {
@@ -665,6 +666,10 @@ div.grid.sexy-orange {
 
 .arrow-wrapper-stat:last-child {
   border-right: none;
+}
+
+.clear-row .content-article .cycle-slideshow .slider {
+  margin-bottom: -50px;
 }
 
 .cream-background #content-section {
@@ -724,6 +729,7 @@ div.grid.sexy-orange {
   border-bottom: 3px solid #fff;
   -webkit-border-radius: 0 0 4px 4px;
           border-radius: 0 0 4px 4px;
+  margin-bottom: 80px;
   padding: 20px;
 }
 
