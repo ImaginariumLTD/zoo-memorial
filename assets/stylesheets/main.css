@@ -1022,21 +1022,6 @@ nav.secondary-nav ul li {
   padding-left: 15px;
 }
 
-.primary-footer .footer-logo img {
-  height: 200px;
-  margin-top: 80px;
-  opacity: 0.4; 
-  width: auto;
-}
-
-.primary-footer img.desaturate { 
-  filter: grayscale(100%); 
-  -webkit-filter: grayscale(100%); 
-  -moz-filter: grayscale(100%); 
-  -ms-filter: grayscale(100%); 
-  -o-filter: grayscale(100%); 
-}
-
 .primary-footer small {
   color: #5e5e5e;
   font-size: 12px;
