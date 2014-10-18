@@ -1030,13 +1030,3 @@ nav.secondary-nav ul li {
   top: 140px;
 }
 
-/* gallery specific */
-
-a:hover {
-    color: lightblue;
-    text-decoration: none;
-}
-.modal {
-  overflow: auto;
-  color: #333;
-}
