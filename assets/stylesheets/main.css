@@ -1029,6 +1029,14 @@ nav.secondary-nav ul li {
   width: auto;
 }
 
+.primary-footer img.desaturate { 
+  filter: grayscale(100%); 
+  -webkit-filter: grayscale(100%); 
+  -moz-filter: grayscale(100%); 
+  -ms-filter: grayscale(100%); 
+  -o-filter: grayscale(100%); 
+}
+
 .primary-footer small {
   color: #5e5e5e;
   padding-top: 20px;
