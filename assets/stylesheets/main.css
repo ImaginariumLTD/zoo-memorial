@@ -1022,6 +1022,10 @@ nav.secondary-nav ul li {
   padding-left: 15px;
 }
 
+.primary-footer .social-media-icons img {
+  border-radius: 50%;
+}
+
 .primary-footer small {
   color: #5e5e5e;
   font-size: 12px;
