@@ -674,9 +674,19 @@ a {
   margin-top: -5px;
 }
 
+.inspiration {
+  background-color: #fbfbfb;
+  -webkit-border-radius: 2px;
+          border-radius: 2px;
+  padding: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .inspiration h2 {
   padding-top: 20px;
 }
+
 
 .list-styles {
   padding-left: 40px;
