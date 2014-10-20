@@ -620,9 +620,6 @@ a {
  About Page
  ============================================
 */
-.about {
-  border-top: 3px solid #ddd;
-}
 
 .about article ul li {
   list-style-type: disc;
