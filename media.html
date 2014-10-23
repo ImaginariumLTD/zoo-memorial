@@ -114,7 +114,33 @@
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="assets/scripts/justifiedGallery.js"></script>
+  <script>
 
+    $(document).ready(function () {
+      $('#jgs-form').submit(false);
+
+      $('#mygallery').justifiedGallery({
+        rowHeight: 120,
+        maxRowHeight: 0,
+        margins: 1,
+        rel : 'liveDemo',
+        lastRow: 'nojustify',
+        fixedHeight: false,
+        captions: true,
+        randomize: false
+      }).on('jg.complete', function () {
+        $(this).find('a').colorbox({
+          maxWidth : '80%',
+          maxHeight : '80%',
+          opacity : 0.8,
+          transition : 'elastic',
+          current : ''
+        });
+      });
+
+    });
+    
+  </script>
   </body>
 
 </html>
