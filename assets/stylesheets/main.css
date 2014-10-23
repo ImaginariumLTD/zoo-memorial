@@ -149,19 +149,6 @@ html {
 
 /*
  ===========================================
- Jquery Hover Styles
- ===========================================
-*/
-
-h2.toggle-header{
-  cursor: pointer;
-}
-h2.toggle-header:hover{
-  text-decoration: underline;
-}
-
-/*
- ===========================================
  Clearfix
  ===========================================
 */
@@ -699,6 +686,21 @@ a {
 div.grid.sexy-orange {
   border-radius: 5px;
 }
+
+
+/*
+ ===========================================
+ Jquery Hover Styles
+ ===========================================
+*/
+
+h2.toggle-header{
+  cursor: pointer;
+}
+h2.toggle-header:hover{
+  text-decoration: underline;
+}
+
 
 /*
  =============================================
