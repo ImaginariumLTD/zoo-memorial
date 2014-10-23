@@ -127,21 +127,21 @@
         rowHeight: 120,
         maxRowHeight: 0,
         margins: 1,
-        rel : 'liveDemo',
+        rel : 'gallery2',
         lastRow: 'nojustify',
         fixedHeight: false,
         captions: true,
         randomize: false
       }).on('jg.complete', function () {
-        $(this).find('a').colorbox({
+        $('#mygallery a').swipebox();
+          /*
           maxWidth : '80%',
           maxHeight : '80%',
           opacity : 0.8,
           transition : 'elastic',
-          current : ''
-        });
+          current : '' 
+        });*/
       });
-
     });
     
   </script>
