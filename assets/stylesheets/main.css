@@ -641,19 +641,21 @@ a {
 }
 
 #about-objectives {
-  border: 2px solid #ea862c;
+  /*border: 2px solid #ea862c;*/
+  background: rgb(247, 202, 24);
 }
 
 #about-what {
-  background-color: #81bc38;
+  background-color: #888;
 }
 
 #about-why {
-  background-color: #e87d1d;
+  background-color: #f1250f;
 }
 
 #about-how {
-  border: 2px solid #8ac63f;
+  /*border: 2px solid #8ac63f;*/
+  background: #71f110;
   margin-top: -5px;
 }
 
