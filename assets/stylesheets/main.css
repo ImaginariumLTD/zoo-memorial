@@ -626,6 +626,14 @@ a {
   text-align: justify;
 }
 
+#about-objectives h2,
+#about-who h2,
+#about-what h2,
+#about-why h2,
+#about-how h2 {
+  color: #fff;
+}
+
 #about-objectives,
 #about-why {
   margin-right: 9px;
