@@ -962,6 +962,30 @@ section #partner-image img {
   padding: 20px;
 }
 
+.partners-grey {
+  background-color: #888;
+}
+
+.partners-grey {
+  color: #888;
+}
+
+.partners-red {
+  background-color: #f3422f;
+}
+
+.partners-red-font {
+  color: #f1250f;
+}
+
+.partners-orange {
+  background: rgb(247, 202, 24);
+}
+
+.partners-orange-font {
+  color: rgb(247, 202, 24);
+}
+
 /*
  =============================================
  Media
