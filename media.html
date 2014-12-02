@@ -6,7 +6,7 @@
     <title>Zoo Memorial Foundation</title>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="assets/stylesheets/justifiedGallery.css">    
+    <link rel="stylesheet" href="assets/stylesheets/justifiedGallery.css">
     <link rel="stylesheet" href="assets/stylesheets/main.css">
     <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
@@ -40,8 +40,8 @@
       </nav>
 
     </header>
-  
-  <!-- Filler --> 
+
+  <!-- Filler -->
 
   <section class="hor-center" id="green-filler">
 
@@ -64,20 +64,20 @@
 
     </section>
 
-    <div id="mygallery">
-      <a href="assets/images/mobile-ict-lessons-1.jpg" rel="gallery2">
+    <div>
+      <a href="assets/images/mobile-ict-lessons-1.jpg">
         <img src="assets/images/mobile-ict-lessons-1.jpg" alt="">
         <div class="caption">Training session with the children</div>
       </a>
-      <a href="assets/images/mobile-ict-lessons-1.jpg" rel="gallery2">
+      <a href="assets/images/mobile-ict-lessons-1.jpg">
         <img src="assets/images/mobile-ict-lessons-1.jpg" alt="">
         <div class="caption">Training session with the children</div>
       </a>
-      <a href="assets/images/mobile-ict-lessons-1.jpg" rel="gallery2">
+      <a href="assets/images/mobile-ict-lessons-1.jpg">
         <img src="assets/images/mobile-ict-lessons-1.jpg" alt="">
         <div class="caption">Training session with the children</div>
       </a>
-      <a href="assets/images/mobile-ict-lessons-1.jpg" rel="gallery2">
+      <a href="assets/images/mobile-ict-lessons-1.jpg">
         <img src="assets/images/mobile-ict-lessons-1.jpg" alt="">
         <div class="caption">Training session with the children</div>
       </a>
@@ -86,13 +86,13 @@
 
 
   <!-- Footer -->
-  
+
   <footer class="cf primary-footer row">
-    
+
     <div class="col-1-3">
-      
+
       <nav class="secondary-nav">
-        
+
         <ul>
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About Us</a></li>
@@ -100,14 +100,14 @@
           <li><a href="team.html">Team</a></li>
           <li><a href="media.html">Media</a></li>
         </ul>
-            
+
       </nav>
-      
-    
-    </div>     
+
+
+    </div>
 
     <div class="col-1-3 hor-center">
-      
+
       <!--img class="desaturate footer-logo" src="assets/images/zoo-footer-logo.png"-->
 
       <small>&copy;2014 ZOO Memorial Foundation</small>
@@ -120,7 +120,7 @@
         <li><a href="https://twitter.com/ZOO_MFoundation" target="_blank"><img src="assets/images/social-02.gif"></a></li>
         <li><a href="https://www.facebook.com/pages/The-ZOO-Memorial-Foundation/1511324919086306" target="_blank"><img src="assets/images/social-03.gif"></a></li>
       </ul>
-      
+
     </div>
 
   </footer>
@@ -128,34 +128,7 @@
   <!-- End of Footer -->
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script src="assets/scripts/justifiedGallery.js"></script>
-  <script>
 
-    $(document).ready(function () {
-      $('#jgs-form').submit(false);
-
-      $('#mygallery').justifiedGallery({
-        rowHeight: 120,
-        maxRowHeight: 0,
-        margins: 1,
-        rel : 'gallery2',
-        lastRow: 'nojustify',
-        fixedHeight: false,
-        captions: true,
-        randomize: false
-      }).on('jg.complete', function () {
-        $('#mygallery a').swipebox();
-          /*
-          maxWidth : '80%',
-          maxHeight : '80%',
-          opacity : 0.8,
-          transition : 'elastic',
-          current : '' 
-        });*/
-      });
-    });
-    
-  </script>
   </body>
 
 </html>
