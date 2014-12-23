@@ -334,7 +334,9 @@ html {
 #red-filler h4,
 #yellow-filler h4 {
   color: #fff;
+  font-family: 'Ubuntu', sans-serif ;
   text-shadow: 1px 1px 1px #000;
+  text-transform: none;
 }
 
 #blue-filler p,
