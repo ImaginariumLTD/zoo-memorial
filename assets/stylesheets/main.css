@@ -327,11 +327,12 @@ html {
 
 /* have to create special classes for this */
 
-#blue-filler h2,
-#green-filler h2,
-#grey-filler h2,
-#orange-filler h2,
-#red-filler h2 {
+#blue-filler h4,
+#green-filler h4,
+#grey-filler h4,
+#orange-filler h4,
+#red-filler h4,
+#yellow-filler h4 {
   color: #fff;
   text-shadow: 1px 1px 1px #000;
 }
