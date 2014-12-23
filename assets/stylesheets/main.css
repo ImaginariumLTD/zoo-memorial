@@ -313,14 +313,14 @@ html {
     linear,
     left top,
     left bottom,
-    color-stop(0.2, #F7CA18),
+    color-stop(0.2, #F5D76E),
     color-stop(1, #F4D03F)
   );
-  background-image: -o-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
-  background-image: -moz-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
-  background-image: -webkit-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
-  background-image: -ms-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
-  background-image: linear-gradient(to bottom, #F7CA18 20%, F4D03F0 100%);
+  background-image: -o-linear-gradient(bottom, #F5D76E 20%, F4D03F0 100%);
+  background-image: -moz-linear-gradient(bottom, #F5D76E 20%, F4D03F0 100%);
+  background-image: -webkit-linear-gradient(bottom, #F5D76E 20%, F4D03F0 100%);
+  background-image: -ms-linear-gradient(bottom, #F5D76E 20%, F4D03F0 100%);
+  background-image: linear-gradient(to bottom, #F5D76E 20%, F4D03F0 100%);
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
