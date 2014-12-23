@@ -240,23 +240,6 @@ html {
   padding: 40px 20px;
 }
 
-#orange-filler {
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    color-stop(0.2, #F0B37E),
-    color-stop(1, #EB9850)
-  );
-  background-image: -o-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
-  background-image: -moz-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
-  background-image: -webkit-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
-  background-image: -ms-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
-  background-image: linear-gradient(to bottom, #F0B37E 20%, #EB9850 100%);
-  border-top: 2px solid #fbfdfc;
-  padding: 40px 20px;
-}
-
 #grey-filler {
   background-image: -webkit-gradient(
     linear,
@@ -291,6 +274,23 @@ html {
   padding: 40px 20px;
 }
 
+#orange-filler {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.2, #F0B37E),
+    color-stop(1, #EB9850)
+  );
+  background-image: -o-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
+  background-image: -moz-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
+  background-image: -webkit-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
+  background-image: -ms-linear-gradient(bottom, #F0B37E 20%, #EB9850 100%);
+  background-image: linear-gradient(to bottom, #F0B37E 20%, #EB9850 100%);
+  border-top: 2px solid #fbfdfc;
+  padding: 40px 20px;
+}
+
 #red-filler {
   background-image: -webkit-gradient(
     linear,
@@ -304,6 +304,23 @@ html {
   background-image: -webkit-linear-gradient(bottom, #e85a4a 20%, #e64c3b 100%);
   background-image: -ms-linear-gradient(bottom, #e85a4a 20%, #e64c3b 100%);
   background-image: linear-gradient(to bottom, #e85a4a 20%, #e64c3b 100%);
+  border-top: 2px solid #fbfdfc;
+  padding: 40px 20px;
+}
+
+#yellow-filler {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.2, #F7CA18),
+    color-stop(1, #F4D03F)
+  );
+  background-image: -o-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
+  background-image: -moz-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
+  background-image: -webkit-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
+  background-image: -ms-linear-gradient(bottom, #F7CA18 20%, F4D03F0 100%);
+  background-image: linear-gradient(to bottom, #F7CA18 20%, F4D03F0 100%);
   border-top: 2px solid #fbfdfc;
   padding: 40px 20px;
 }
@@ -1013,6 +1030,7 @@ section #partner-image img {
 }
 
 #gallery {
+  text-align: center;
   margin: 70px auto;
 }
 
