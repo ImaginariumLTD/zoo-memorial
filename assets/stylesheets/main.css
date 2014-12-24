@@ -1050,9 +1050,9 @@ section #partner-image img {
 }
 
 #gallery img:hover { 
-  -webkit-transform: scale( 2.2 ); /*Webkit: increase size to 1.5x*/
-  -moz-transform: scale( 2.2 ); /*Mozilla: scaling*/
-  -o-transform: scale( 2.2 ); /*Opera: scaling*/
+  -webkit-transform: scale( 2.5 ); /*Webkit: increase size to 1.5x*/
+  -moz-transform: scale( 2.5 ); /*Mozilla: scaling*/
+  -o-transform: scale( 2.5 ); /*Opera: scaling*/
   box-shadow: 0px 0px 25px gray; /*CSS3 shadows: 25px fuzzy shadow around the entire image*/
   -webkit-box-shadow: 0px 0px 25px gray; /*Webkit: shadows*/
   -moz-box-shadow: 0px 0px 25px gray; /*Mozilla: shadows*/
