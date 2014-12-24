@@ -1046,7 +1046,7 @@ section #partner-image img {
   opacity: 0.7; /*initial opacity of the image*/
   z-index: 1; /*place non-hover images behind the hover image*/
   margin: 0; /*remove default margin for images*/
-  position: relative; /*solve the problem with z-index in Chrome*/
+  position: relative; /*solve the problemw ith z-index in Chrome*/
 }
 
 #gallery img:hover { 
@@ -1060,6 +1060,11 @@ section #partner-image img {
   z-index: 10; /*place hover image in front the non-hover images*/
 }
 
+.about-content {
+  margin-top: -30px;
+  margin-bottom: -10px;
+  padding: 35px 35px;
+}
 .zoo-gallery {
   padding: 0px;
   margin-bottom: 10px;
