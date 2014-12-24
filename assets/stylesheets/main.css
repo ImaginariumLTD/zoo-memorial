@@ -1060,6 +1060,12 @@ section #partner-image img {
   z-index: 10; /*place hover image in front the non-hover images*/
 }
 
+.zoo-gallery {
+  border: 5px solid #F5D76E;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
 /*
  =============================================
  Content Styles
